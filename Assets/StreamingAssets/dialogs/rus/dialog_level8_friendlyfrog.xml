@@ -1,0 +1,19 @@
+<root>
+
+<switch>
+<case local="1" to="2"/>
+</switch>
+
+<branch><!--1-->
+<dialog>
+<phrase person="Gaster-0-0">Опа, дружелюбная лягушка.</phrase>
+<set global="FriFro-1" msg="1"/>
+</dialog>
+</branch>
+
+<branch><!--2-->
+<dialog>
+<phrase person="Gaster-0-0">Я с тобой уже говорил.</phrase>
+</dialog>
+</branch>
+</root>

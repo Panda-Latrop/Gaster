@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Saveable
+  - Navigation
+  - UI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Detector
+  - Water
+  - UI
+  - WorldStatic
+  - PhysicsBody
+  - Pawn
+  - Perception
+  - Ragdoll
+  - Invisible
+  - Interact
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Damage
+    uniqueID: 3977524357
+    locked: 0
+  - name: Pawn
+    uniqueID: 2795747009
+    locked: 0
+  - name: Effect
+    uniqueID: 2655593783
+    locked: 0
+  - name: UI
+    uniqueID: 2900846861
+    locked: 0

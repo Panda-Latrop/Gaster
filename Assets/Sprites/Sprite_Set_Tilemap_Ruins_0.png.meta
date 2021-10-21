@@ -1,0 +1,5496 @@
+fileFormatVersion: 2
+guid: 2cc97595c3cec2348940096c65765c23
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1712938420654277163
+    second: Sprite_Set_Tilemap_Ruins_0_0
+  - first:
+      213: 8330079905737539665
+    second: Sprite_Set_Tilemap_Ruins_0_1
+  - first:
+      213: -3995903376594243851
+    second: Sprite_Set_Tilemap_Ruins_0_2
+  - first:
+      213: 7353842902296134789
+    second: Sprite_Set_Tilemap_Ruins_0_3
+  - first:
+      213: 8891210237590957013
+    second: Sprite_Set_Tilemap_Ruins_0_4
+  - first:
+      213: 8799232130636691375
+    second: Sprite_Set_Tilemap_Ruins_0_5
+  - first:
+      213: 1350213461693883940
+    second: Sprite_Set_Tilemap_Ruins_0_6
+  - first:
+      213: -7070899092354818897
+    second: Sprite_Set_Tilemap_Ruins_0_7
+  - first:
+      213: -7589590413632142997
+    second: Sprite_Set_Tilemap_Ruins_0_8
+  - first:
+      213: -6733973964765142301
+    second: Sprite_Set_Tilemap_Ruins_0_9
+  - first:
+      213: -3166752999916666862
+    second: Sprite_Set_Tilemap_Ruins_0_10
+  - first:
+      213: -5710381960895110426
+    second: Sprite_Set_Tilemap_Ruins_0_11
+  - first:
+      213: 7254629208190872368
+    second: Sprite_Set_Tilemap_Ruins_0_12
+  - first:
+      213: -8613193144036360340
+    second: Sprite_Set_Tilemap_Ruins_0_13
+  - first:
+      213: -7575792125633781734
+    second: Sprite_Set_Tilemap_Ruins_0_14
+  - first:
+      213: -3861941436824023773
+    second: Sprite_Set_Tilemap_Ruins_0_15
+  - first:
+      213: 7289700688600275432
+    second: Sprite_Set_Tilemap_Ruins_0_16
+  - first:
+      213: -8904502836607875872
+    second: Sprite_Set_Tilemap_Ruins_0_17
+  - first:
+      213: -8055659185383309015
+    second: Sprite_Set_Tilemap_Ruins_0_18
+  - first:
+      213: -606234542086140597
+    second: Sprite_Set_Tilemap_Ruins_0_19
+  - first:
+      213: -4639788183961683554
+    second: Sprite_Set_Tilemap_Ruins_0_20
+  - first:
+      213: 1822606930967072764
+    second: Sprite_Set_Tilemap_Ruins_0_21
+  - first:
+      213: 1894299024537161885
+    second: Sprite_Set_Tilemap_Ruins_0_22
+  - first:
+      213: -671507696878666249
+    second: Sprite_Set_Tilemap_Ruins_0_23
+  - first:
+      213: -6581721537284634987
+    second: Sprite_Set_Tilemap_Ruins_0_24
+  - first:
+      213: -6944173569402578744
+    second: Sprite_Set_Tilemap_Ruins_0_25
+  - first:
+      213: -4568943557182543539
+    second: Sprite_Set_Tilemap_Ruins_0_26
+  - first:
+      213: 1134041857577544103
+    second: Sprite_Set_Tilemap_Ruins_0_27
+  - first:
+      213: 3763618918874434435
+    second: Sprite_Set_Tilemap_Ruins_0_28
+  - first:
+      213: 4744588921949147695
+    second: Sprite_Set_Tilemap_Ruins_0_29
+  - first:
+      213: 1317327910067262463
+    second: Sprite_Set_Tilemap_Ruins_0_30
+  - first:
+      213: 3906424327075253222
+    second: Sprite_Set_Tilemap_Ruins_0_31
+  - first:
+      213: -8287578554214976119
+    second: Sprite_Set_Tilemap_Ruins_0_32
+  - first:
+      213: -8849792116768986813
+    second: Sprite_Set_Tilemap_Ruins_0_33
+  - first:
+      213: -6058117314458481247
+    second: Sprite_Set_Tilemap_Ruins_0_34
+  - first:
+      213: 8353457455404493877
+    second: Sprite_Set_Tilemap_Ruins_0_35
+  - first:
+      213: 3761271840038079545
+    second: Sprite_Set_Tilemap_Ruins_0_36
+  - first:
+      213: -6287148856862185092
+    second: Sprite_Set_Tilemap_Ruins_0_37
+  - first:
+      213: 3002309883306779429
+    second: Sprite_Set_Tilemap_Ruins_0_38
+  - first:
+      213: -2625119214021106360
+    second: Sprite_Set_Tilemap_Ruins_0_39
+  - first:
+      213: -7631383430049879559
+    second: Sprite_Set_Tilemap_Ruins_0_40
+  - first:
+      213: -8238899779855883323
+    second: Sprite_Set_Tilemap_Ruins_0_41
+  - first:
+      213: -245008774889499265
+    second: Sprite_Set_Tilemap_Ruins_0_42
+  - first:
+      213: -8778578195136318751
+    second: Sprite_Set_Tilemap_Ruins_0_43
+  - first:
+      213: -810596714728594322
+    second: Sprite_Set_Tilemap_Ruins_0_44
+  - first:
+      213: -3892754159315157844
+    second: Sprite_Set_Tilemap_Ruins_0_45
+  - first:
+      213: -7602860765542638844
+    second: Sprite_Set_Tilemap_Ruins_0_46
+  - first:
+      213: 6033211829277668816
+    second: Sprite_Set_Tilemap_Ruins_0_47
+  - first:
+      213: 5256167968187213579
+    second: Sprite_Set_Tilemap_Ruins_0_48
+  - first:
+      213: -2549443808846784690
+    second: Sprite_Set_Tilemap_Ruins_0_49
+  - first:
+      213: 8262587415987846639
+    second: Sprite_Set_Tilemap_Ruins_0_50
+  - first:
+      213: 6454229762046683019
+    second: Sprite_Set_Tilemap_Ruins_0_51
+  - first:
+      213: -8238110743407507440
+    second: Sprite_Set_Tilemap_Ruins_0_52
+  - first:
+      213: -3897528412790260258
+    second: Sprite_Set_Tilemap_Ruins_0_53
+  - first:
+      213: 5543835195674722301
+    second: Sprite_Set_Tilemap_Ruins_0_54
+  - first:
+      213: -5703186152350249233
+    second: Sprite_Set_Tilemap_Ruins_0_55
+  - first:
+      213: 7520738793226093881
+    second: Sprite_Set_Tilemap_Ruins_0_56
+  - first:
+      213: -4857189314431168640
+    second: Sprite_Set_Tilemap_Ruins_0_57
+  - first:
+      213: 6723875804358531465
+    second: Sprite_Set_Tilemap_Ruins_0_58
+  - first:
+      213: 4486173228571836887
+    second: Sprite_Set_Tilemap_Ruins_0_59
+  - first:
+      213: -3995974982270287313
+    second: Sprite_Set_Tilemap_Ruins_0_60
+  - first:
+      213: -4368259362175510107
+    second: Sprite_Set_Tilemap_Ruins_0_61
+  - first:
+      213: 2150423488164132464
+    second: Sprite_Set_Tilemap_Ruins_0_62
+  - first:
+      213: -4667767461707714723
+    second: Sprite_Set_Tilemap_Ruins_0_63
+  - first:
+      213: -949213237255841725
+    second: Sprite_Set_Tilemap_Ruins_0_64
+  - first:
+      213: 3137104019880177003
+    second: Sprite_Set_Tilemap_Ruins_0_65
+  - first:
+      213: 2169635413008850309
+    second: Sprite_Set_Tilemap_Ruins_0_66
+  - first:
+      213: -1212822247160855785
+    second: Sprite_Set_Tilemap_Ruins_0_67
+  - first:
+      213: -4756444496821148492
+    second: Sprite_Set_Tilemap_Ruins_0_68
+  - first:
+      213: -840739847632757224
+    second: Sprite_Set_Tilemap_Ruins_0_69
+  - first:
+      213: 576805393181671706
+    second: Sprite_Set_Tilemap_Ruins_0_70
+  - first:
+      213: 7504614095268039259
+    second: Sprite_Set_Tilemap_Ruins_0_71
+  - first:
+      213: -311334597868869341
+    second: Sprite_Set_Tilemap_Ruins_0_72
+  - first:
+      213: 4051100298774824928
+    second: Sprite_Set_Tilemap_Ruins_0_73
+  - first:
+      213: 6796412796211771569
+    second: Sprite_Set_Tilemap_Ruins_0_74
+  - first:
+      213: 6474684680091920313
+    second: Sprite_Set_Tilemap_Ruins_0_75
+  - first:
+      213: 8001306561874095229
+    second: Sprite_Set_Tilemap_Ruins_0_76
+  - first:
+      213: 2189126502770467830
+    second: Sprite_Set_Tilemap_Ruins_0_77
+  - first:
+      213: -3277073142847430187
+    second: Sprite_Set_Tilemap_Ruins_0_78
+  - first:
+      213: 3690501813481658240
+    second: Sprite_Set_Tilemap_Ruins_0_79
+  - first:
+      213: -2911186370937370892
+    second: Sprite_Set_Tilemap_Ruins_0_80
+  - first:
+      213: 7812802143372420286
+    second: Sprite_Set_Tilemap_Ruins_0_81
+  - first:
+      213: 2378176994131145587
+    second: Sprite_Set_Tilemap_Ruins_0_82
+  - first:
+      213: -2278817427013083744
+    second: Sprite_Set_Tilemap_Ruins_0_83
+  - first:
+      213: -4120452191423927727
+    second: Sprite_Set_Tilemap_Ruins_0_84
+  - first:
+      213: 4334153709133846672
+    second: Sprite_Set_Tilemap_Ruins_0_85
+  - first:
+      213: 8487604126754005330
+    second: Sprite_Set_Tilemap_Ruins_0_86
+  - first:
+      213: 1505235755727461600
+    second: Sprite_Set_Tilemap_Ruins_0_87
+  - first:
+      213: 6954773555556023642
+    second: Sprite_Set_Tilemap_Ruins_0_88
+  - first:
+      213: 8709367564743230826
+    second: Sprite_Set_Tilemap_Ruins_0_89
+  - first:
+      213: -321977838889416525
+    second: Sprite_Set_Tilemap_Ruins_0_90
+  - first:
+      213: 1419782566933802323
+    second: Sprite_Set_Tilemap_Ruins_0_91
+  - first:
+      213: -8489802960712917577
+    second: Sprite_Set_Tilemap_Ruins_0_92
+  - first:
+      213: 7798131189119333905
+    second: Sprite_Set_Tilemap_Ruins_0_93
+  - first:
+      213: 3249125806124111461
+    second: Sprite_Set_Tilemap_Ruins_0_94
+  - first:
+      213: 1668303960501132263
+    second: Sprite_Set_Tilemap_Ruins_0_95
+  - first:
+      213: -7043944235093889682
+    second: Sprite_Set_Tilemap_Ruins_0_96
+  - first:
+      213: -904398026119524653
+    second: Sprite_Set_Tilemap_Ruins_0_97
+  - first:
+      213: 5417731065805840398
+    second: Sprite_Set_Tilemap_Ruins_0_98
+  - first:
+      213: -7571578470463605399
+    second: Sprite_Set_Tilemap_Ruins_0_99
+  - first:
+      213: 1712132154341908764
+    second: Sprite_Set_Tilemap_Ruins_0_100
+  - first:
+      213: 5278439043784497431
+    second: Sprite_Set_Tilemap_Ruins_0_101
+  - first:
+      213: 6316778287737378836
+    second: Sprite_Set_Tilemap_Ruins_0_102
+  - first:
+      213: -5051126032362343520
+    second: Sprite_Set_Tilemap_Ruins_0_103
+  - first:
+      213: -8289826546507058990
+    second: Sprite_Set_Tilemap_Ruins_0_104
+  - first:
+      213: -2047747741145875406
+    second: Sprite_Set_Tilemap_Ruins_0_105
+  - first:
+      213: -5320010552432244949
+    second: Sprite_Set_Tilemap_Ruins_0_106
+  - first:
+      213: -5565603268308054375
+    second: Sprite_Set_Tilemap_Ruins_0_107
+  - first:
+      213: 7916492403929262849
+    second: Sprite_Set_Tilemap_Ruins_0_108
+  - first:
+      213: -3446380157667992634
+    second: Sprite_Set_Tilemap_Ruins_0_109
+  - first:
+      213: 9222380222233555783
+    second: Sprite_Set_Tilemap_Ruins_0_110
+  - first:
+      213: 6448586349980853900
+    second: Sprite_Set_Tilemap_Ruins_0_111
+  - first:
+      213: 4846122250384147986
+    second: Sprite_Set_Tilemap_Ruins_0_112
+  - first:
+      213: -1902518415338111476
+    second: Sprite_Set_Tilemap_Ruins_0_113
+  - first:
+      213: -2816059268292604331
+    second: Sprite_Set_Tilemap_Ruins_0_114
+  - first:
+      213: 998674118098688035
+    second: Sprite_Set_Tilemap_Ruins_0_115
+  - first:
+      213: 1541611891297675989
+    second: Sprite_Set_Tilemap_Ruins_0_116
+  - first:
+      213: -7293806622264117924
+    second: Sprite_Set_Tilemap_Ruins_0_117
+  - first:
+      213: 4903627428060628666
+    second: Sprite_Set_Tilemap_Ruins_0_118
+  - first:
+      213: 7809939486746264153
+    second: Sprite_Set_Tilemap_Ruins_0_119
+  - first:
+      213: 1756216129418786913
+    second: Sprite_Set_Tilemap_Ruins_0_120
+  - first:
+      213: -1612888629542039474
+    second: Sprite_Set_Tilemap_Ruins_0_121
+  - first:
+      213: 6214224221947590978
+    second: Sprite_Set_Tilemap_Ruins_0_122
+  - first:
+      213: -1958167804919258946
+    second: Sprite_Set_Tilemap_Ruins_0_123
+  - first:
+      213: -1689600886365894917
+    second: Sprite_Set_Tilemap_Ruins_0_124
+  - first:
+      213: 224233463472053383
+    second: Sprite_Set_Tilemap_Ruins_0_125
+  - first:
+      213: 3376232650577050192
+    second: Sprite_Set_Tilemap_Ruins_0_126
+  - first:
+      213: 8964234222293802994
+    second: Sprite_Set_Tilemap_Ruins_0_127
+  - first:
+      213: -2184258201336709571
+    second: Sprite_Set_Tilemap_Ruins_0_128
+  - first:
+      213: 2818933770825320560
+    second: Sprite_Set_Tilemap_Ruins_0_129
+  - first:
+      213: 2001900586409022046
+    second: Sprite_Set_Tilemap_Ruins_0_130
+  - first:
+      213: -6226181975331411783
+    second: Sprite_Set_Tilemap_Ruins_0_131
+  - first:
+      213: -8594689776413140309
+    second: Sprite_Set_Tilemap_Ruins_0_132
+  - first:
+      213: -7609608860966613312
+    second: Sprite_Set_Tilemap_Ruins_0_133
+  - first:
+      213: 2828493927129405762
+    second: Sprite_Set_Tilemap_Ruins_0_134
+  - first:
+      213: 4196924156968059888
+    second: Sprite_Set_Tilemap_Ruins_0_135
+  - first:
+      213: -6300811889355890609
+    second: Sprite_Set_Tilemap_Ruins_0_136
+  - first:
+      213: 408320615318081769
+    second: Sprite_Set_Tilemap_Ruins_0_137
+  - first:
+      213: 5880412211062332335
+    second: Sprite_Set_Tilemap_Ruins_0_138
+  - first:
+      213: -1784180962444761762
+    second: Sprite_Set_Tilemap_Ruins_0_139
+  - first:
+      213: -6142778517922707879
+    second: Sprite_Set_Tilemap_Ruins_0_140
+  - first:
+      213: -7225365562270530216
+    second: Sprite_Set_Tilemap_Ruins_0_141
+  - first:
+      213: -2864311617581140986
+    second: Sprite_Set_Tilemap_Ruins_0_142
+  - first:
+      213: -3433257087622128026
+    second: Sprite_Set_Tilemap_Ruins_0_143
+  - first:
+      213: -869496500218190901
+    second: Sprite_Set_Tilemap_Ruins_0_144
+  - first:
+      213: 3709109080465464774
+    second: Sprite_Set_Tilemap_Ruins_0_145
+  - first:
+      213: 6231756090717853019
+    second: Sprite_Set_Tilemap_Ruins_0_146
+  - first:
+      213: -7106142334439137703
+    second: Sprite_Set_Tilemap_Ruins_0_147
+  - first:
+      213: 9090591433136609975
+    second: Sprite_Set_Tilemap_Ruins_0_148
+  - first:
+      213: -5234018028656025803
+    second: Sprite_Set_Tilemap_Ruins_0_149
+  - first:
+      213: -155671711226377417
+    second: Sprite_Set_Tilemap_Ruins_0_150
+  - first:
+      213: 7532673433327137441
+    second: Sprite_Set_Tilemap_Ruins_0_151
+  - first:
+      213: -2994740962593775380
+    second: Sprite_Set_Tilemap_Ruins_0_152
+  - first:
+      213: 8001167733467125613
+    second: Sprite_Set_Tilemap_Ruins_0_153
+  - first:
+      213: 6193693349806317954
+    second: Sprite_Set_Tilemap_Ruins_0_154
+  - first:
+      213: -545358378124185379
+    second: Sprite_Set_Tilemap_Ruins_0_155
+  - first:
+      213: 6441787704894067921
+    second: Sprite_Set_Tilemap_Ruins_0_156
+  - first:
+      213: -657612507827956766
+    second: Sprite_Set_Tilemap_Ruins_0_157
+  - first:
+      213: -2699714840089074697
+    second: Sprite_Set_Tilemap_Ruins_0_158
+  - first:
+      213: -4701022594299149321
+    second: Sprite_Set_Tilemap_Ruins_0_159
+  - first:
+      213: -981089165844789184
+    second: Sprite_Set_Tilemap_Ruins_0_160
+  - first:
+      213: -6117990725819474407
+    second: Sprite_Set_Tilemap_Ruins_0_161
+  - first:
+      213: -4396698049868954935
+    second: Sprite_Set_Tilemap_Ruins_0_162
+  - first:
+      213: 4313558266371979100
+    second: Sprite_Set_Tilemap_Ruins_0_163
+  - first:
+      213: -4785961404644336973
+    second: Sprite_Set_Tilemap_Ruins_0_164
+  - first:
+      213: -7939718357004733287
+    second: Sprite_Set_Tilemap_Ruins_0_165
+  - first:
+      213: -8683509740661953017
+    second: Sprite_Set_Tilemap_Ruins_0_166
+  - first:
+      213: -7473523536262373691
+    second: Sprite_Set_Tilemap_Ruins_0_167
+  - first:
+      213: 391735749427721305
+    second: Sprite_Set_Tilemap_Ruins_0_168
+  - first:
+      213: 4833839131938315843
+    second: Sprite_Set_Tilemap_Ruins_0_169
+  - first:
+      213: -5808699300997363345
+    second: Sprite_Set_Tilemap_Ruins_0_170
+  - first:
+      213: -4570227119354897348
+    second: Sprite_Set_Tilemap_Ruins_0_171
+  - first:
+      213: -6026245766261818483
+    second: Sprite_Set_Tilemap_Ruins_0_172
+  - first:
+      213: 5703241384806634790
+    second: Sprite_Set_Tilemap_Ruins_0_173
+  - first:
+      213: 6650197044156872132
+    second: Sprite_Set_Tilemap_Ruins_0_174
+  - first:
+      213: 2393177210053030272
+    second: Sprite_Set_Tilemap_Ruins_0_175
+  - first:
+      213: 5622813057999247258
+    second: Sprite_Set_Tilemap_Ruins_0_176
+  - first:
+      213: -8006745115852895624
+    second: Sprite_Set_Tilemap_Ruins_0_177
+  - first:
+      213: -7440376820402941466
+    second: Sprite_Set_Tilemap_Ruins_0_178
+  - first:
+      213: 1173855291862957977
+    second: Sprite_Set_Tilemap_Ruins_0_179
+  - first:
+      213: 5293235214822404072
+    second: Sprite_Set_Tilemap_Ruins_0_180
+  - first:
+      213: 2606076680766226749
+    second: Sprite_Set_Tilemap_Ruins_0_181
+  - first:
+      213: 6086533594013811450
+    second: Sprite_Set_Tilemap_Ruins_0_182
+  - first:
+      213: 9220602539794610278
+    second: Sprite_Set_Tilemap_Ruins_0_183
+  - first:
+      213: 7615983773099251039
+    second: Sprite_Set_Tilemap_Ruins_0_184
+  - first:
+      213: 5012430402264545226
+    second: Sprite_Set_Tilemap_Ruins_0_185
+  - first:
+      213: -5871113087945207402
+    second: Sprite_Set_Tilemap_Ruins_0_186
+  - first:
+      213: -5191613245682582942
+    second: Sprite_Set_Tilemap_Ruins_0_187
+  - first:
+      213: 6247324462654652392
+    second: Sprite_Set_Tilemap_Ruins_0_188
+  - first:
+      213: -938917087731948872
+    second: Sprite_Set_Tilemap_Ruins_0_189
+  - first:
+      213: 2221468007353695932
+    second: Sprite_Set_Tilemap_Ruins_0_190
+  - first:
+      213: 5328771305158198026
+    second: Sprite_Set_Tilemap_Ruins_0_191
+  - first:
+      213: -379716624742618681
+    second: Sprite_Set_Tilemap_Ruins_0_192
+  - first:
+      213: 790778593321741242
+    second: Sprite_Set_Tilemap_Ruins_0_193
+  - first:
+      213: -4278791837585028255
+    second: Sprite_Set_Tilemap_Ruins_0_194
+  - first:
+      213: 7252286434809163971
+    second: Sprite_Set_Tilemap_Ruins_0_195
+  - first:
+      213: -949913995873201368
+    second: Sprite_Set_Tilemap_Ruins_0_196
+  - first:
+      213: -6681134144460247111
+    second: Sprite_Set_Tilemap_Ruins_0_197
+  - first:
+      213: 4492642947410361710
+    second: Sprite_Set_Tilemap_Ruins_0_198
+  - first:
+      213: 8674141979013351094
+    second: Sprite_Set_Tilemap_Ruins_0_199
+  - first:
+      213: -5365210724969940355
+    second: Sprite_Set_Tilemap_Ruins_0_200
+  - first:
+      213: -5008321619602251330
+    second: Sprite_Set_Tilemap_Ruins_0_201
+  - first:
+      213: 7503874667279098171
+    second: Sprite_Set_Tilemap_Ruins_0_202
+  - first:
+      213: 5917047523784449421
+    second: Sprite_Set_Tilemap_Ruins_0_203
+  - first:
+      213: 8748932590352814554
+    second: Sprite_Set_Tilemap_Ruins_0_204
+  - first:
+      213: 7892562971231347187
+    second: Sprite_Set_Tilemap_Ruins_0_205
+  - first:
+      213: -3710637323470116841
+    second: Sprite_Set_Tilemap_Ruins_0_206
+  - first:
+      213: -956305357269812660
+    second: Sprite_Set_Tilemap_Ruins_0_207
+  - first:
+      213: 7644365207946149766
+    second: Sprite_Set_Tilemap_Ruins_0_208
+  - first:
+      213: -3911608515966151543
+    second: Sprite_Set_Tilemap_Ruins_0_209
+  - first:
+      213: -8924318301788693097
+    second: Sprite_Set_Tilemap_Ruins_0_210
+  - first:
+      213: -6210518838518760814
+    second: Sprite_Set_Tilemap_Ruins_0_211
+  - first:
+      213: 2849103213789092307
+    second: Sprite_Set_Tilemap_Ruins_0_212
+  - first:
+      213: -4529291441919339535
+    second: Sprite_Set_Tilemap_Ruins_0_213
+  - first:
+      213: -241227735873651414
+    second: Sprite_Set_Tilemap_Ruins_0_214
+  - first:
+      213: -8619574731260586560
+    second: Sprite_Set_Tilemap_Ruins_0_215
+  - first:
+      213: -8003328256974192272
+    second: Sprite_Set_Tilemap_Ruins_0_216
+  - first:
+      213: -6107564829678220220
+    second: Sprite_Set_Tilemap_Ruins_0_217
+  - first:
+      213: -4713567610425729728
+    second: Sprite_Set_Tilemap_Ruins_0_218
+  - first:
+      213: -3297551741324125927
+    second: Sprite_Set_Tilemap_Ruins_0_219
+  - first:
+      213: 8787434380633287955
+    second: Sprite_Set_Tilemap_Ruins_0_220
+  - first:
+      213: 1618410485722855458
+    second: Sprite_Set_Tilemap_Ruins_0_221
+  - first:
+      213: 1443061234107454567
+    second: Sprite_Set_Tilemap_Ruins_0_222
+  - first:
+      213: 5140044899562642341
+    second: Sprite_Set_Tilemap_Ruins_0_223
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 492
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2287350b6495c710800000000000000
+      internalID: 1712938420654277163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 492
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1500b142a836a9370800000000000000
+      internalID: 8330079905737539665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 492
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fee059dc03bb88c0800000000000000
+      internalID: -3995903376594243851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 492
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584836548291e0660800000000000000
+      internalID: 7353842902296134789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 492
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbecea7a9ce36b70800000000000000
+      internalID: 8891210237590957013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 492
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7bdc2a0072d1a70800000000000000
+      internalID: 8799232130636691375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 492
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426e63b5dfbecb210800000000000000
+      internalID: 1350213461693883940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_7
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 492
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac1f8d1dbe1fdd90800000000000000
+      internalID: -7070899092354818897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 492
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b610fbceabb5ca690800000000000000
+      internalID: -7589590413632142997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_9
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 492
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2e17f6b5e1c82a0800000000000000
+      internalID: -6733973964765142301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 492
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210809cbcee6d04d0800000000000000
+      internalID: -3166752999916666862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_11
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 492
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e26c098cd5a0c0b0800000000000000
+      internalID: -5710381960895110426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 492
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03be36304de9da460800000000000000
+      internalID: 7254629208190872368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_13
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 492
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ff1eb587ac77880800000000000000
+      internalID: -8613193144036360340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_14
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 492
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10a56333316dd690800000000000000
+      internalID: -7575792125633781734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 492
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d0eb289b0a76ac0800000000000000
+      internalID: -3861941436824023773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 492
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e990fe57283a2560800000000000000
+      internalID: 7289700688600275432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_17
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 492
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4878229d9dc6480800000000000000
+      internalID: -8904502836607875872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_18
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 492
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9218d9fc6ac843090800000000000000
+      internalID: -8055659185383309015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_19
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 492
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d426c55e83697f0800000000000000
+      internalID: -606234542086140597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_20
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 492
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99b8e5ba392c9fb0800000000000000
+      internalID: -4639788183961683554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_21
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 492
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff057dd8533b4910800000000000000
+      internalID: 1822606930967072764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_22
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 492
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9018e72de6e94a10800000000000000
+      internalID: 1894299024537161885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_23
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 492
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd3b97be435ea6f0800000000000000
+      internalID: -671507696878666249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5968c9f122709a4a0800000000000000
+      internalID: -6581721537284634987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_25
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 472
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c85a113ee651af90800000000000000
+      internalID: -6944173569402578744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_26
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 472
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d492353ca0ad790c0800000000000000
+      internalID: -4568943557182543539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_27
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 472
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a96551af0decbf00800000000000000
+      internalID: 1134041857577544103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_28
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 472
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b4379577f0b3430800000000000000
+      internalID: 3763618918874434435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_29
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 472
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2258029c7a28d140800000000000000
+      internalID: 4744588921949147695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_30
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 472
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3544431c6184210800000000000000
+      internalID: 1317327910067262463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_31
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 472
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebc3457a38663630800000000000000
+      internalID: 3906424327075253222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 472
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985fed3e63b9cfc80800000000000000
+      internalID: -8287578554214976119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_33
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 472
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349aeef35f83f2580800000000000000
+      internalID: -8849792116768986813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_34
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 472
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad0f08566e3deba0800000000000000
+      internalID: -6058117314458481247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_35
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 472
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c29b31c417de370800000000000000
+      internalID: 8353457455404493877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_36
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 472
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c46297fc8b23430800000000000000
+      internalID: 3761271840038079545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_37
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 472
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79e9b8ec6f8fb8a0800000000000000
+      internalID: -6287148856862185092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_38
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 472
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52325249ee85aa920800000000000000
+      internalID: 3002309883306779429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_39
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 472
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845283bbbf3b19bd0800000000000000
+      internalID: -2625119214021106360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 472
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f923130431e71690800000000000000
+      internalID: -7631383430049879559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_41
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 472
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c365a14d4c89ad80800000000000000
+      internalID: -8238899779855883323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_42
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 472
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f759bdd31dd899cf0800000000000000
+      internalID: -245008774889499265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_43
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 472
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2f8e574a93c2680800000000000000
+      internalID: -8778578195136318751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 472
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64e08a259e20c4f0800000000000000
+      internalID: -810596714728594322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_45
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 472
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac781087b82af9c0800000000000000
+      internalID: -3892754159315157844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_46
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 472
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b93195a663d7690800000000000000
+      internalID: -7602860765542638844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_47
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 472
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5b7c281364ab350800000000000000
+      internalID: 6033211829277668816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_48
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 472
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07e59f2be8a1f840800000000000000
+      internalID: 5256167968187213579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 452
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e475ed60d5e8e9cd0800000000000000
+      internalID: -2549443808846784690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_50
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 452
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed719f4a7b9aa270800000000000000
+      internalID: 8262587415987846639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_51
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 452
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87eb89c5c7029950800000000000000
+      internalID: 6454229762046683019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_52
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 452
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018cdde1de95cad80800000000000000
+      internalID: -8238110743407507440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 452
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddf4adfe8239e9c0800000000000000
+      internalID: -3897528412790260258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_54
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 452
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffff7becb8afec40800000000000000
+      internalID: 5543835195674722301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_55
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 452
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee8c3549663ad0b0800000000000000
+      internalID: -5703186152350249233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_56
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 452
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935cdbaf5180f5860800000000000000
+      internalID: 7520738793226093881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_57
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 452
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fc1829d0cc79cb0800000000000000
+      internalID: -4857189314431168640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_58
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 452
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98952a06b61005d50800000000000000
+      internalID: 6723875804358531465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_59
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 452
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d144e958c6124e30800000000000000
+      internalID: 4486173228571836887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_60
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 452
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f228e6adce17b88c0800000000000000
+      internalID: -3995974982270287313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_61
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 452
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a911ce0143d063c0800000000000000
+      internalID: -4368259362175510107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_62
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 452
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076fda0e4c6d7dd10800000000000000
+      internalID: 2150423488164132464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_63
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 452
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fe8c67932c83fb0800000000000000
+      internalID: -4667767461707714723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_64
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 452
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34854410797b3d2f0800000000000000
+      internalID: -949213237255841725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 452
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d68682c7b398b20800000000000000
+      internalID: 3137104019880177003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_66
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 452
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d1084b9e71c1e10800000000000000
+      internalID: 2169635413008850309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_67
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 452
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713494e87903b2fe0800000000000000
+      internalID: -1212822247160855785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_68
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 452
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b42d1d4ee6bdfdb0800000000000000
+      internalID: -4756444496821148492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_69
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 452
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e555120971554f0800000000000000
+      internalID: -840739847632757224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_70
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 452
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a118f15f279310800800000000000000
+      internalID: 576805393181671706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_71
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 452
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a47dc22ceb52860800000000000000
+      internalID: 7504614095268039259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_72
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 452
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329acbf25daedabf0800000000000000
+      internalID: -311334597868869341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_73
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 452
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7c3f11246683830800000000000000
+      internalID: 4051100298774824928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b83f11ed65b15e50800000000000000
+      internalID: 6796412796211771569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_75
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 432
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7ea858963bad950800000000000000
+      internalID: 6474684680091920313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_76
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 432
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ce18fdce95a0f60800000000000000
+      internalID: 8001306561874095229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_77
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 432
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3e60ea4f6516e10800000000000000
+      internalID: 2189126502770467830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_78
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 432
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d12b99d65f7582d0800000000000000
+      internalID: -3277073142847430187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_79
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 432
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0875283a8db473330800000000000000
+      internalID: 3690501813481658240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_80
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 432
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6c1557b636997d0800000000000000
+      internalID: -2911186370937370892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_81
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 432
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4af18c726ac6c60800000000000000
+      internalID: 7812802143372420286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_82
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 432
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3737134406bf00120800000000000000
+      internalID: 2378176994131145587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_83
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 432
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad5ae2bf930060e0800000000000000
+      internalID: -2278817427013083744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_84
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 432
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a6230209631d6c0800000000000000
+      internalID: -4120452191423927727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_85
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 432
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0985ddac5d1062c30800000000000000
+      internalID: 4334153709133846672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_86
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251ef49ebf60ac570800000000000000
+      internalID: 8487604126754005330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_87
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 432
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec1a5bd1fba3e410800000000000000
+      internalID: 1505235755727461600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_88
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 432
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d723863b1548060800000000000000
+      internalID: 6954773555556023642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_89
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 432
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6544dae7a3edd870800000000000000
+      internalID: 8709367564743230826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 432
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8c2778cda188bf0800000000000000
+      internalID: -321977838889416525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_91
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 432
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35da168e8b414b310800000000000000
+      internalID: 1419782566933802323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_92
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 432
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd95a920392e2a80800000000000000
+      internalID: -8489802960712917577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_93
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 432
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1163a5f0007883c60800000000000000
+      internalID: 7798131189119333905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_94
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 432
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5661590c4b6371d20800000000000000
+      internalID: 3249125806124111461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_95
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 432
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb1c0fec91072710800000000000000
+      internalID: 1668303960501132263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_96
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 432
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d6191e902ee3e90800000000000000
+      internalID: -7043944235093889682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_97
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 432
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dec49579cee273f0800000000000000
+      internalID: -904398026119524653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_98
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 432
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00a4f133b5af2b40800000000000000
+      internalID: 5417731065805840398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965750f3f795ce690800000000000000
+      internalID: -7571578470463605399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_100
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 412
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11e2148f17b2c710800000000000000
+      internalID: 1712132154341908764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_101
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 412
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719d35d0858c04940800000000000000
+      internalID: 5278439043784497431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_102
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 412
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4189c7d8264b9a750800000000000000
+      internalID: 6316778287737378836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_103
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 412
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a37055b2abc6e9b0800000000000000
+      internalID: -5051126032362343520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_104
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 412
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0f7d56dae94fc80800000000000000
+      internalID: -8289826546507058990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_105
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 412
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c34636740f493e0800000000000000
+      internalID: -2047747741145875406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_106
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 412
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2742f4d6968b26b0800000000000000
+      internalID: -5320010552432244949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_107
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 412
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99eceb7b05103c2b0800000000000000
+      internalID: -5565603268308054375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_108
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 412
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b2843e5e70ddd60800000000000000
+      internalID: 7916492403929262849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_109
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 412
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb9e3d918ffb20d0800000000000000
+      internalID: -3446380157667992634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_110
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 412
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743b1d923f97cff70800000000000000
+      internalID: 9222380222233555783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_111
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 412
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86aa068e1bfd7950800000000000000
+      internalID: 6448586349980853900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_112
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 412
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2168348c282e04340800000000000000
+      internalID: 4846122250384147986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_113
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 412
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ef12bc495e895e0800000000000000
+      internalID: -1902518415338111476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_114
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 412
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e09fef3095be8d0800000000000000
+      internalID: -2816059268292604331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_115
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 412
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32816a7b1d00cdd00800000000000000
+      internalID: 998674118098688035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_116
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 412
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dae05ae8d7e46510800000000000000
+      internalID: 1541611891297675989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_117
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 412
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c553e83758137ca90800000000000000
+      internalID: -7293806622264117924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_118
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 412
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab68a605a2f2d0440800000000000000
+      internalID: 4903627428060628666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_119
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 412
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952cec8959a726c60800000000000000
+      internalID: 7809939486746264153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_120
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 412
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16871dec3455f5810800000000000000
+      internalID: 1756216129418786913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_121
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 412
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4051ed365edd99e0800000000000000
+      internalID: -1612888629542039474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_122
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 412
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24970d7610c5d3650800000000000000
+      internalID: 6214224221947590978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_123
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 412
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb06e2991c033d4e0800000000000000
+      internalID: -1958167804919258946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6c9fb12f45d88e0800000000000000
+      internalID: -1689600886365894917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_125
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 392
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cd101a523ac1300800000000000000
+      internalID: 224233463472053383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_126
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 392
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a78b825b9cade20800000000000000
+      internalID: 3376232650577050192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_127
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 392
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffd837d78b576c70800000000000000
+      internalID: 8964234222293802994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_128
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 392
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e77931db4ffa1e0800000000000000
+      internalID: -2184258201336709571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_129
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 392
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0784567445dde1720800000000000000
+      internalID: 2818933770825320560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_130
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 392
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e525e801afd28cb10800000000000000
+      internalID: 2001900586409022046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_131
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 392
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b86e6d2b782899a0800000000000000
+      internalID: -6226181975331411783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_132
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 392
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa963a5f2789b880800000000000000
+      internalID: -8594689776413140309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_133
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 392
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce8b62fe0d356690800000000000000
+      internalID: -7609608860966613312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_134
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 392
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249d5ef9d34d04720800000000000000
+      internalID: 2828493927129405762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_135
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 392
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f34655d8487e3a30800000000000000
+      internalID: 4196924156968059888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_136
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 392
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40626248f40f88a0800000000000000
+      internalID: -6300811889355890609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_137
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 392
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0d08eaf65aaa500800000000000000
+      internalID: 408320615318081769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_138
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 392
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab5d3d00cb6b9150800000000000000
+      internalID: 5880412211062332335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_139
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 392
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55277e1ed05d37e0800000000000000
+      internalID: -1784180962444761762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_140
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 392
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9560159db7770caa0800000000000000
+      internalID: -6142778517922707879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_141
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 392
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85546808d485abb90800000000000000
+      internalID: -7225365562270530216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_142
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 392
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6043d0472cbef38d0800000000000000
+      internalID: -2864311617581140986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_143
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 392
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ed0b57ede9a50d0800000000000000
+      internalID: -3433257087622128026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_144
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 392
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3ac033a8deee3f0800000000000000
+      internalID: -869496500218190901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_145
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 392
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdd1569e07697330800000000000000
+      internalID: 3709109080465464774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_146
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 392
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b555d12b525ab7650800000000000000
+      internalID: 6231756090717853019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_147
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 392
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ed3606239e16d90800000000000000
+      internalID: -7106142334439137703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_148
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 392
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba11529eb4482e70800000000000000
+      internalID: 9090591433136609975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_149
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f97fd75580d57b0800000000000000
+      internalID: -5234018028656025803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_150
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 372
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b46c64761f6ddf0800000000000000
+      internalID: -155671711226377417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_151
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 372
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a27c7ae39e698860800000000000000
+      internalID: 7532673433327137441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_152
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 372
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0694a16fa8076d0800000000000000
+      internalID: -2994740962593775380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_153
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 372
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6710ad59abd90f60800000000000000
+      internalID: 8001167733467125613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_154
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 372
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281a7ea394b64f550800000000000000
+      internalID: 6193693349806317954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_155
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 372
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0ff9cc17f7e68f0800000000000000
+      internalID: -545358378124185379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_156
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 372
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d490bc99c3d56950800000000000000
+      internalID: 6441787704894067921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_157
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 372
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e39f0788e0bfd6f0800000000000000
+      internalID: -657612507827956766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_158
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 372
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3e3a918afa88ad0800000000000000
+      internalID: -2699714840089074697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_159
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 372
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3c6b98bdc92ceb0800000000000000
+      internalID: -4701022594299149321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_160
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 372
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04846d80a987262f0800000000000000
+      internalID: -981089165844789184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_161
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 372
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e556079d7881ba0800000000000000
+      internalID: -6117990725819474407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_162
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 372
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c288e81b6acbf2c0800000000000000
+      internalID: -4396698049868954935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_163
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 372
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c573d099366dcdb30800000000000000
+      internalID: 4313558266371979100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_164
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 372
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bad177a579d49db0800000000000000
+      internalID: -4785961404644336973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_165
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 372
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994b512883470d190800000000000000
+      internalID: -7939718357004733287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_166
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 372
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e2338e5e9fd7780800000000000000
+      internalID: -8683509740661953017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_167
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 372
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce5f80b0f5b84890800000000000000
+      internalID: -7473523536262373691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_168
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 372
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954f57ea699bf6500800000000000000
+      internalID: 391735749427721305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_169
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 372
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ed098641f351340800000000000000
+      internalID: 4833839131938315843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_170
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 372
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f690ef4f2ca536fa0800000000000000
+      internalID: -5808699300997363345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_171
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 372
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c9ef726aa4390c0800000000000000
+      internalID: -4570227119354897348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_172
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 372
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b33cc67697e5ca0800000000000000
+      internalID: -6026245766261818483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_173
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 372
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625d4b982dbf52f40800000000000000
+      internalID: 5703241384806634790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5b2573afe3a4c50800000000000000
+      internalID: 6650197044156872132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_175
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 352
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08175c13ef5463120800000000000000
+      internalID: 2393177210053030272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_176
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 352
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9719707fae380e40800000000000000
+      internalID: 5622813057999247258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_177
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 352
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a8e7a1db352e090800000000000000
+      internalID: -8006745115852895624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_178
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 352
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e115d0e3b87eb890800000000000000
+      internalID: -7440376820402941466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_179
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 352
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f34392b2f5a4010800000000000000
+      internalID: 1173855291862957977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_180
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 352
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efe3141269557940800000000000000
+      internalID: 5293235214822404072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_181
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 352
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31008efee4aa2420800000000000000
+      internalID: 2606076680766226749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_182
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2cca05e06b77450800000000000000
+      internalID: 6086533594013811450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_183
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 352
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668b587382926ff70800000000000000
+      internalID: 9220602539794610278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_184
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 352
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5558b2f3e861b960800000000000000
+      internalID: 7615983773099251039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_185
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 352
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7b854d4eabf8540800000000000000
+      internalID: 5012430402264545226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_186
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 352
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69111e4c0cd958ea0800000000000000
+      internalID: -5871113087945207402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_187
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 352
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a70e7624fa3f7b0800000000000000
+      internalID: -5191613245682582942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_188
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 352
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef7321cf74f2b650800000000000000
+      internalID: 6247324462654652392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_189
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 352
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2613022eb48f2f0800000000000000
+      internalID: -938917087731948872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_190
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe3632026d34de10800000000000000
+      internalID: 2221468007353695932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_191
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 352
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03cf3dd44993f940800000000000000
+      internalID: 5328771305158198026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_192
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 352
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9e7eaddb9fabaf0800000000000000
+      internalID: -379716624742618681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_193
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 352
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbeceed0f869fa00800000000000000
+      internalID: 790778593321741242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_194
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 352
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b47e46e7dae94c0800000000000000
+      internalID: -4278791837585028255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_195
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 352
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c03f24961c45a460800000000000000
+      internalID: 7252286434809163971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_196
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 352
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8235ecce04a31d2f0800000000000000
+      internalID: -949913995873201368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_197
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 352
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfa6bec4e7d743a0800000000000000
+      internalID: -6681134144460247111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_198
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6dfe0725f2195e30800000000000000
+      internalID: 4492642947410361710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_199
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6056e1c2eb06870800000000000000
+      internalID: 8674141979013351094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_200
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 332
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7afc019541fa85b0800000000000000
+      internalID: -5365210724969940355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_201
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 332
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1e2bea50ede7ab0800000000000000
+      internalID: -5008321619602251330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_202
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 332
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31293ea04e132860800000000000000
+      internalID: 7503874667279098171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_203
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 332
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8dd64e7f539d1250800000000000000
+      internalID: 5917047523784449421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_204
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 332
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad151db46d37a6970800000000000000
+      internalID: 8748932590352814554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_205
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 332
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f165aba434088d60800000000000000
+      internalID: 7892562971231347187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_206
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 332
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718e14c930b218cc0800000000000000
+      internalID: -3710637323470116841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_207
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 332
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a312328558ab2f0800000000000000
+      internalID: -956305357269812660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_208
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 332
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f3cf0b7ad361a60800000000000000
+      internalID: 7644365207946149766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_209
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 332
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984d17187cc27b9c0800000000000000
+      internalID: -3911608515966151543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_210
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 332
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d1e5f99c3762480800000000000000
+      internalID: -8924318301788693097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_211
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 332
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ab737650ecfc9a0800000000000000
+      internalID: -6210518838518760814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_212
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 332
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9925a174c0a8720800000000000000
+      internalID: 2849103213789092307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_213
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 332
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f35e284e69b421c0800000000000000
+      internalID: -4529291441919339535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_214
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 332
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d774df6acf6acf0800000000000000
+      internalID: -241227735873651414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_215
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 332
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5974c437e116880800000000000000
+      internalID: -8619574731260586560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_216
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 332
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071053e8a577ee090800000000000000
+      internalID: -8003328256974192272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_217
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 332
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c4c5c85229d3ba0800000000000000
+      internalID: -6107564829678220220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_218
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 332
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d99cb5b3b069eb0800000000000000
+      internalID: -4713567610425729728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_219
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 332
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91997e5992ebc32d0800000000000000
+      internalID: -3297551741324125927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_220
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 332
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31da3b8e20d33f970800000000000000
+      internalID: 8787434380633287955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_221
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 332
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228374613cfb57610800000000000000
+      internalID: 1618410485722855458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_222
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 332
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7649c18fb88c60410800000000000000
+      internalID: 1443061234107454567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Set_Tilemap_Ruins_0_223
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 332
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab5dff5a9b155740800000000000000
+      internalID: 5140044899562642341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

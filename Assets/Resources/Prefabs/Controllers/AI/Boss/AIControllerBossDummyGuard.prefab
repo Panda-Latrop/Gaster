@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &577437828614324566
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1442138053106369204}
+  - component: {fileID: 7727698174981013846}
+  - component: {fileID: 6858982517864022888}
+  - component: {fileID: 692134477685758415}
+  m_Layer: 0
+  m_Name: AIControllerBossDummyGuard
+  m_TagString: Saveable
+  m_Icon: {fileID: 2974397684917235467, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1442138053106369204
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 577437828614324566}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7727698174981013846
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 577437828614324566}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c1cd9d8d55214b4da2a39ff08db2edf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  path: Prefabs/Controllers/AI/Boss/AIControllerBossDummyGuard
+--- !u!114 &6858982517864022888
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 577437828614324566}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e29b1f4975e06f43a820da56854f0d2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 7727698174981013846}
+  saveTag: 
+  specifier: _boss_dummyguard
+  targets: []
+  distanceToCommander: 10
+  hasCommander: 0
+  commander: {fileID: 0}
+  distanceToClose: 4
+  shootInStage0: 1
+  shootInStage1: 1
+  shootInStage2: 1
+  timeToWait: 1
+  timeToVoice: 5
+  timeToShield: 10
+  voice: {fileID: 692134477685758415}
+--- !u!114 &692134477685758415
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 577437828614324566}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f769d05d336ca240a7c9464a05b2f83, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  battleCries:
+  - {fileID: 8300000, guid: 1228edd9746483944a535879ce3c7448, type: 3}
+  - {fileID: 8300000, guid: 4ec6c107daefe37449605aa6d91ec386, type: 3}
+  - {fileID: 8300000, guid: 3e13d4f7678259642ad35f2126033afd, type: 3}
+  - {fileID: 8300000, guid: 18bb8ae239c5796449027e81f01a1150, type: 3}
+  - {fileID: 8300000, guid: 312b0b11228cac34a9d6b6f16092a173, type: 3}
+  - {fileID: 8300000, guid: b91e6c9b9dc21e0498910b846143222e, type: 3}
+  - {fileID: 8300000, guid: b30618c7e4af34944bac475d4928037a, type: 3}
+  - {fileID: 8300000, guid: f00a9f45014df1742874cfe4819f6916, type: 3}
+  hurtCries:
+  - {fileID: 8300000, guid: 7f56208880255c745bf605f72506ea7e, type: 3}

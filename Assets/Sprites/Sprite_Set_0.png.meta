@@ -1,0 +1,4824 @@
+fileFormatVersion: 2
+guid: 780d0156722340049befa377f20f9df0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8193154538287318696
+    second: Weapon_Launcher_0
+  - first:
+      213: 4164248779099085819
+    second: Effect_Muzzle_0
+  - first:
+      213: -312169525436549145
+    second: Effect_Blood_Small_0
+  - first:
+      213: -6075432344315626785
+    second: Effect_Blood_Small_1
+  - first:
+      213: -4109945630919760182
+    second: Effect_Blood_Small_2
+  - first:
+      213: -8382827991247875418
+    second: Effect_Blood_Small_3
+  - first:
+      213: 1800187810017576449
+    second: Effect_Blood_Small_4
+  - first:
+      213: 7214909084417827924
+    second: Effect_Blood_Small_5
+  - first:
+      213: -7856288583039924671
+    second: Effect_Blood_Small_6
+  - first:
+      213: -1924265345163301102
+    second: Effect_Blood_Small_7
+  - first:
+      213: -7186999567820275575
+    second: Effect_Blood_Small_8
+  - first:
+      213: -2262741201150778848
+    second: Effect_Blood_Small_9
+  - first:
+      213: -1404253932749219098
+    second: Effect_Blood_Small_10
+  - first:
+      213: 887060501029158912
+    second: Effect_Gore_0
+  - first:
+      213: 3572210639281555533
+    second: Effect_Gore_1
+  - first:
+      213: -298407909817828109
+    second: Effect_Gore_2
+  - first:
+      213: 1811145994629117867
+    second: Effect_Gore_3
+  - first:
+      213: 1585448849513460423
+    second: Character_Froggit_Head_0
+  - first:
+      213: 3477811734620229529
+    second: Character_Froggit_Gore_0
+  - first:
+      213: -2526704199590876691
+    second: Character_Froggit_Gore_2
+  - first:
+      213: -6372812314241778290
+    second: Character_Frisk_Down_0
+  - first:
+      213: 7518464715429896587
+    second: Character_Frisk_Down_1
+  - first:
+      213: 2152207551366004203
+    second: Character_Frisk_Down_2
+  - first:
+      213: -5540779466406084119
+    second: Character_Frisk_Down_3
+  - first:
+      213: 3510657307167066226
+    second: Character_Frisk_Left_0
+  - first:
+      213: 214870887906864957
+    second: Character_Frisk_Left_1
+  - first:
+      213: -4673261804294169274
+    second: Character_Frisk_Right_0
+  - first:
+      213: -3332312281292895534
+    second: Character_Frisk_Right_1
+  - first:
+      213: 7072284366899884051
+    second: Character_Frisk_Up_0
+  - first:
+      213: -6019544646529932
+    second: Character_Frisk_Up_1
+  - first:
+      213: -5519560848165201635
+    second: Character_Frisk_Up_2
+  - first:
+      213: 3512987186108207791
+    second: Character_Frisk_Up_3
+  - first:
+      213: 6138628882240064896
+    second: Character_Frisk_Gore_0
+  - first:
+      213: -5751045136873040591
+    second: Character_Gaster_Head_0
+  - first:
+      213: 1963404672977734257
+    second: Character_Gaster_Body_0
+  - first:
+      213: -2590750431983747261
+    second: Weapon_Carabine_0
+  - first:
+      213: 8920878759152351485
+    second: Effect_Blood_Small_13
+  - first:
+      213: -6323898304546786436
+    second: Effect_Blood_Big_1
+  - first:
+      213: 2080997233900994556
+    second: Effect_Blood_Big_2
+  - first:
+      213: -2206490840129609218
+    second: Effect_Gore_4
+  - first:
+      213: 4270870210861177230
+    second: Effect_Gore_5
+  - first:
+      213: -6991707532613651647
+    second: Effect_Gore_6
+  - first:
+      213: 1217136680678886159
+    second: Effect_Gore_7
+  - first:
+      213: -6093795674060310589
+    second: Effect_Muzzle_1
+  - first:
+      213: -5939706113507555171
+    second: Effect_Blood_Big_0
+  - first:
+      213: -756894740860956213
+    second: Character_Froggit_Body_0
+  - first:
+      213: 4595954741695110068
+    second: Character_Froggit_Gore_1
+  - first:
+      213: 1368098950859484483
+    second: Character_Frisk_Gore_1
+  - first:
+      213: 846361067044624737
+    second: Character_Frisk_Gore_2
+  - first:
+      213: 5911477545549226430
+    second: Character_Gaster_Hand_2
+  - first:
+      213: -4233407513421035856
+    second: Character_Gaster_Hand_3
+  - first:
+      213: -1021910424284202096
+    second: Weapon_SMG_0
+  - first:
+      213: 2501786528787956259
+    second: Projectile_2
+  - first:
+      213: -4425387885693183646
+    second: Effect_Gore_8
+  - first:
+      213: -2933166396038398601
+    second: Effect_Gore_9
+  - first:
+      213: -4649615152767706791
+    second: Effect_Gore_10
+  - first:
+      213: -2158872207979274886
+    second: Effect_Gore_11
+  - first:
+      213: 2645841145277924941
+    second: Projectile_0
+  - first:
+      213: 69838279602674730
+    second: Character_Gaster_Hand_0
+  - first:
+      213: 6840725694495832063
+    second: Character_Gaster_Hand_1
+  - first:
+      213: -7630328943612759510
+    second: Weapon_Shotgun_0
+  - first:
+      213: 2448133469231083889
+    second: Projectile_1
+  - first:
+      213: 2934867931697832540
+    second: Weapon_Pistol_0
+  - first:
+      213: -2649724180969807791
+    second: Effect_Blood_Small_12
+  - first:
+      213: -7491893328963449575
+    second: Effect_Blood_Small_11
+  - first:
+      213: -8921786199708250402
+    second: Effect_Shell_0
+  - first:
+      213: 8419566466830556788
+    second: Effect_Shell_1
+  - first:
+      213: 4484277689149129348
+    second: GasterFull
+  - first:
+      213: 1489942126716183040
+    second: Character_Whimsun_Left_0
+  - first:
+      213: 1730738593619454857
+    second: Character_Whimsun_Left_1
+  - first:
+      213: -3881623734135087837
+    second: Character_Whimsun_Left_2
+  - first:
+      213: 8686009783473922360
+    second: Character_Whimsun_Left_3
+  - first:
+      213: 5728841259031014493
+    second: Character_Whimsun_Gore_0
+  - first:
+      213: 1246960538662202943
+    second: Character_Whimsun_Gore_1
+  - first:
+      213: -3477098189361046332
+    second: Character_Whimsun_Gore_2
+  - first:
+      213: 5464275819111984959
+    second: Character_Whimsun_Right_0
+  - first:
+      213: 2559785306863148863
+    second: Character_Whimsun_Right_1
+  - first:
+      213: 7792336594689399677
+    second: Character_Whimsun_Right_2
+  - first:
+      213: 9183753835455336362
+    second: Character_Whimsun_Right_3
+  - first:
+      213: 6928278554678029093
+    second: Projectile_Whimsun_0
+  - first:
+      213: 4312390676814240243
+    second: Projectile_Whimsun_1
+  - first:
+      213: 9182565737742055124
+    second: Projectile_Whimsun_Gore_0
+  - first:
+      213: -6447905483573810270
+    second: Projectile_Whimsun_Gore_1
+  - first:
+      213: -4289770770225969946
+    second: Projectile_Whimsun_Gore_2
+  - first:
+      213: -7315906738228061036
+    second: Character_Loox_Down_0
+  - first:
+      213: -4747131652571185011
+    second: Character_Loox_Down_3
+  - first:
+      213: 3273508366997655872
+    second: Character_Loox_Down_1
+  - first:
+      213: 2584198812263432119
+    second: Character_Loox_Down_2
+  - first:
+      213: -1115366386935329007
+    second: Character_Loox_Down_4
+  - first:
+      213: 3115399464218589421
+    second: Character_Loox_Down_5
+  - first:
+      213: -1870628441883824188
+    second: Character_Loox_Attack_Down_0
+  - first:
+      213: 5704118275525444365
+    second: Character_Loox_Gore_0
+  - first:
+      213: 257611565737591577
+    second: Character_Loox_Gore_1
+  - first:
+      213: -6709610295016415654
+    second: Character_Loox_Gore_2
+  - first:
+      213: -6218221224520911395
+    second: Projectile_Loox_0
+  - first:
+      213: -2266735617133566972
+    second: Projectile_Loox_1
+  - first:
+      213: 1808987983286802711
+    second: Projectile_Loox_2
+  - first:
+      213: -398171986787630225
+    second: Character_Froggit_Head_1
+  - first:
+      213: -1328652310777795933
+    second: Character_Froggit_Head_2
+  - first:
+      213: 3654870711177890881
+    second: Projectile_3
+  - first:
+      213: -4199488067307837942
+    second: Projectile_4
+  - first:
+      213: -2990451457336322651
+    second: Effect_Lightning_0
+  - first:
+      213: -4323318531912990231
+    second: Effect_Lightning_1
+  - first:
+      213: 4083560258639631033
+    second: Effect_Lightning_2
+  - first:
+      213: -512995575294710143
+    second: Effect_Explosion_0
+  - first:
+      213: -1818258159135993081
+    second: Effect_Smoke_0
+  - first:
+      213: -9157860602079575790
+    second: Effect_Smoke_1
+  - first:
+      213: -303256683687400439
+    second: Effect_Smoke_2
+  - first:
+      213: -5213467030535514723
+    second: Effect_Portal_0
+  - first:
+      213: 7876086632541294176
+    second: Effect_Portal_1
+  - first:
+      213: 1146294578899878029
+    second: Effect_Portal_2
+  - first:
+      213: -3661450283256322269
+    second: Effect_Portal_3
+  - first:
+      213: -1178600646658545174
+    second: Effect_Portal_4
+  - first:
+      213: -5578078153126823919
+    second: Character_Flowey_Down_0
+  - first:
+      213: -8076334699604194449
+    second: Character_Flowey_Hide_0
+  - first:
+      213: 3245533014600422326
+    second: Character_Flowey_Hide_1
+  - first:
+      213: 4383480670556860971
+    second: Character_Flowey_Hide_2
+  - first:
+      213: 3745886156625727995
+    second: Character_FloweyDump_Idle_0
+  - first:
+      213: 8783955635318416901
+    second: Character_FloweyDump_Move_0
+  - first:
+      213: 1788503251056400056
+    second: Character_FloweyDump_Move_1
+  - first:
+      213: 6893040417850008382
+    second: Character_FloweyDump_Move_2
+  - first:
+      213: -6564334622466652213
+    second: Character_FloweyDump_Gore_0
+  - first:
+      213: 4192041252747837801
+    second: Character_FloweyDump_Gore_1
+  - first:
+      213: 6934729119861750785
+    second: Character_FloweyDump_Gore_2
+  - first:
+      213: -4756922096554090793
+    second: Character_FloweyDump_Attack_0
+  - first:
+      213: 2692502694292587767
+    second: Character_FloweyDump_Attack_1
+  - first:
+      213: 737554513342484364
+    second: Character_FloweyDump_Attack_2
+  - first:
+      213: 1259127003621923561
+    second: Character_FloweyDump_Attack_3
+  - first:
+      213: -2872650597456046380
+    second: Projectile_Flowey_0
+  - first:
+      213: -4568445951604694530
+    second: Character_Flowey_Head_0
+  - first:
+      213: 347173665458571914
+    second: Character_Flowey_Body_0
+  - first:
+      213: -6432188438696800539
+    second: Character_Flowey_BodyLow_0
+  - first:
+      213: -7427627328374396110
+    second: Effect_Ground_0
+  - first:
+      213: 5205120650694010223
+    second: Effect_Ground_1
+  - first:
+      213: 4181952121380583880
+    second: Effect_Ground_2
+  - first:
+      213: -1622007772892258908
+    second: Effect_Ground_3
+  - first:
+      213: -6108723710592841335
+    second: Effect_Ground_4
+  - first:
+      213: -6663455515014056187
+    second: Effect_Ground_Hole_0
+  - first:
+      213: -4980593105457320617
+    second: Effect_Ground_Hole_1
+  - first:
+      213: -4730437963880495149
+    second: Character_Flowey_FaceG_0
+  - first:
+      213: -6641045275749358196
+    second: Character_Flowey_FaceG_1
+  - first:
+      213: 8952562392182868380
+    second: Character_Flowey_FaceG_3
+  - first:
+      213: 6731091251097705976
+    second: Character_Flowey_FaceG_4
+  - first:
+      213: 2302648607061971442
+    second: Character_Flowey_FaceG_5
+  - first:
+      213: 29366277707249796
+    second: Character_Flowey_FaceG_2
+  - first:
+      213: 197133221072731306
+    second: Character_Flowey_Face_Big_0
+  - first:
+      213: -7643173222265915714
+    second: Character_Flowey_Face_Big_1
+  - first:
+      213: -8151460211685168702
+    second: Character_Flowey_Face_Big_2
+  - first:
+      213: 3388601600428134044
+    second: Character_Flowey_Face_0
+  - first:
+      213: 8462821867178232124
+    second: Character_Flowey_FaceG_6
+  - first:
+      213: -7576878730727351062
+    second: Character_Flowey_Face_Big_4
+  - first:
+      213: 4438809822777674598
+    second: Character_Flowey_Face_Big_5
+  - first:
+      213: 5946218726556200301
+    second: Character_Dummy_Head_0
+  - first:
+      213: -8290600269445682902
+    second: Character_Dummy_Head_1
+  - first:
+      213: -3049682784031801550
+    second: Character_Dummy_Head_2
+  - first:
+      213: -8097238785650398401
+    second: Character_Dummy_Head_3
+  - first:
+      213: -8851840991917056340
+    second: Character_Dummy_Head_4
+  - first:
+      213: 5557961788781946305
+    second: Character_Dummy_Head_5
+  - first:
+      213: -1817078364523040735
+    second: Character_Dummy_Leg_1
+  - first:
+      213: -4228024646535170710
+    second: Character_Dummy_Leg_2
+  - first:
+      213: 4232261682648473691
+    second: Character_Dummy_Leg_0
+  - first:
+      213: -9139294549327002801
+    second: Character_Dummy_Hips_2
+  - first:
+      213: 1830610417697474061
+    second: Character_Dummy_Hips_1
+  - first:
+      213: 2418716947741275113
+    second: Character_Dummy_Hips_0
+  - first:
+      213: 300144374217226885
+    second: Character_Dummy_Body_2
+  - first:
+      213: -2419581216465599655
+    second: Character_Dummy_Body_1
+  - first:
+      213: -1122122139819292525
+    second: Character_Dummy_Body_0
+  - first:
+      213: -5070466453949740512
+    second: Projectile_Steel_Sword_0
+  - first:
+      213: 6502199055273668477
+    second: Character_Stuff_Helmet_Guard
+  - first:
+      213: 4221777734520670217
+    second: Character_Stuff_Shield_Guard
+  - first:
+      213: 873790507549152672
+    second: DummyFull
+  - first:
+      213: -3630221915020199429
+    second: Character_Stuff_Shield_Guard_Break0
+  - first:
+      213: -515752656756269255
+    second: Character_Stuff_Shield_Guard_Break1
+  - first:
+      213: 2244006616643307336
+    second: Character_Stuff_Shield_Guard_Break2
+  - first:
+      213: -6342231801802804193
+    second: Effect_Spark_1
+  - first:
+      213: 6626525775369204815
+    second: Effect_Spark_3
+  - first:
+      213: -8217761289969278447
+    second: Effect_Spark_2
+  - first:
+      213: 7006966185715979421
+    second: Effect_Spark_0
+  - first:
+      213: 1103045313991050670
+    second: Effect_Bonus_Heal
+  - first:
+      213: -5443603125112078557
+    second: Effect_Bonus_1
+  - first:
+      213: -5774919641514245154
+    second: Effect_Bonus_0
+  - first:
+      213: -8561311518692665336
+    second: Effect_Bonus_Damage
+  - first:
+      213: 5073730346943324534
+    second: Gaster_Text_0
+  - first:
+      213: -3298112308044445657
+    second: Gaster_Text_1
+  - first:
+      213: 1609461500355892709
+    second: Gaster_Text_2
+  - first:
+      213: -3383336929012651692
+    second: Gaster_Text_3
+  - first:
+      213: 8915097982535964807
+    second: Gaster_Text_4
+  - first:
+      213: -1358610557778952931
+    second: Gaster_Text_5
+  - first:
+      213: -7723086832460986713
+    second: Gaster_Text_6
+  - first:
+      213: -6195830728755010885
+    second: Gaster_Text_7
+  - first:
+      213: 4289926737527743262
+    second: Gaster_Text_8
+  - first:
+      213: 5651158431742891747
+    second: Gaster_Text_9
+  - first:
+      213: -6455032952005708110
+    second: Gaster_Text_10
+  - first:
+      213: 7550975381448469728
+    second: Effect_Halo
+  - first:
+      213: 6406474993720180466
+    second: Character_FroggitGirl_Head_0
+  - first:
+      213: 3542641435978689772
+    second: Character_FroggitGirl_Body_0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Weapon_Launcher_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1013
+        width: 33
+        height: 10
+      alignment: 9
+      pivot: {x: 0.27272728, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6ce74b4aee3b170800000000000000
+      internalID: 8193154538287318696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Muzzle_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1012
+        width: 15
+        height: 11
+      alignment: 9
+      pivot: {x: 0, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb1e8293326ac930800000000000000
+      internalID: 4164248779099085819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Blood_Small_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1016
+        width: 9
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.42857146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7f6a67873faabf0800000000000000
+      internalID: -312169525436549145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Blood_Small_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1016
+        width: 9
+        height: 7
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.42857146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdaf52cc87abfaba0800000000000000
+      internalID: -6075432344315626785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Blood_Small_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1016
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0.42857146, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6ebde593a86f6c0800000000000000
+      internalID: -4109945630919760182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Blood_Small_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1016
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a218782b563aab80800000000000000
+      internalID: -8382827991247875418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Blood_Small_4
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1016
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1060611864d8bf810800000000000000
+      internalID: 1800187810017576449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Blood_Small_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1016
+        width: 6
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454a6770691802460800000000000000
+      internalID: 7214909084417827924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Blood_Small_6
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1016
+        width: 7
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146c2fa782bd8f290800000000000000
+      internalID: -7856288583039924671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Blood_Small_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1016
+        width: 4
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f62ff1dd2ab45e0800000000000000
+      internalID: -1924265345163301102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Blood_Small_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1016
+        width: 5
+        height: 5
+      alignment: 9
+      pivot: {x: 0.4, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980cf2fa8f5a24c90800000000000000
+      internalID: -7186999567820275575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Blood_Small_9
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1016
+        width: 4
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02264c6bdd02990e0800000000000000
+      internalID: -2262741201150778848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Blood_Small_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1016
+        width: 5
+        height: 5
+      alignment: 9
+      pivot: {x: 0.4, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea990cfc76138ce0800000000000000
+      internalID: -1404253932749219098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Gore_0
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1014
+        width: 17
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0008f1a63d87f4c00800000000000000
+      internalID: 887060501029158912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Gore_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1015
+        width: 9
+        height: 8
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d488f3966aa039130800000000000000
+      internalID: 3572210639281555533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Gore_2
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1015
+        width: 9
+        height: 8
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc34294697dbdbf0800000000000000
+      internalID: -298407909817828109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Gore_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1014
+        width: 11
+        height: 9
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba77d3eafab722910800000000000000
+      internalID: 1811145994629117867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Froggit_Head_0
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1012
+        width: 19
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.18181819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c23dcc1455a00610800000000000000
+      internalID: 1585448849513460423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Froggit_Gore_0
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1011
+        width: 14
+        height: 12
+      alignment: 9
+      pivot: {x: 0.6428572, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f49bda85ba34030800000000000000
+      internalID: 3477811734620229529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Froggit_Gore_2
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1018
+        width: 5
+        height: 5
+      alignment: 9
+      pivot: {x: 0.4, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9e5e2eae75fecd0800000000000000
+      internalID: -2526704199590876691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Frisk_Down_0
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 994
+        width: 19
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.2413793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d326df6f83f87a0800000000000000
+      internalID: -6372812314241778290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Frisk_Down_1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 994
+        width: 19
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.2413793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81e18bf2d3f65860800000000000000
+      internalID: 7518464715429896587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Frisk_Down_2
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 994
+        width: 19
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.2413793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed75167d5d2edd10800000000000000
+      internalID: 2152207551366004203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Frisk_Down_3
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 994
+        width: 19
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.2413793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1461e7e623b13b0800000000000000
+      internalID: -5540779466406084119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Frisk_Left_0
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 994
+        width: 17
+        height: 29
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.2413793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27882d9783c58b030800000000000000
+      internalID: 3510657307167066226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Frisk_Left_1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 995
+        width: 17
+        height: 28
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.21428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fe2422fef5bf200800000000000000
+      internalID: 214870887906864957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Frisk_Right_0
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 994
+        width: 17
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.2413793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d15a4262d352fb0800000000000000
+      internalID: -4673261804294169274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Frisk_Right_1
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 995
+        width: 17
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.21428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da8dd0b2af31c1d0800000000000000
+      internalID: -3332312281292895534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Frisk_Up_0
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 994
+        width: 19
+        height: 29
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.2413793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310bd9f392dc52260800000000000000
+      internalID: 7072284366899884051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Frisk_Up_1
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 994
+        width: 19
+        height: 29
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.2413793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c42ab814d9aeff0800000000000000
+      internalID: -6019544646529932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Frisk_Up_2
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 994
+        width: 19
+        height: 29
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.2413793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1995f807a49663b0800000000000000
+      internalID: -5519560848165201635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Frisk_Up_3
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 994
+        width: 19
+        height: 29
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.2413793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa29a70bb33a0c030800000000000000
+      internalID: 3512987186108207791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Frisk_Gore_0
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1006
+        width: 19
+        height: 17
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d4fddc17ac03550800000000000000
+      internalID: 6138628882240064896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Gaster_Head_0
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1004
+        width: 16
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135d1791bee2030b0800000000000000
+      internalID: -5751045136873040591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Gaster_Body_0
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 997
+        width: 17
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a0e23c52a6f3b10800000000000000
+      internalID: 1963404672977734257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_Carabine_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1002
+        width: 45
+        height: 10
+      alignment: 9
+      pivot: {x: 0.2888889, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f3bef553ecb0cd0800000000000000
+      internalID: -2590750431983747261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Blood_Small_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1011
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df87a9377f35dcb70800000000000000
+      internalID: 8920878759152351485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Blood_Big_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 984
+        width: 25
+        height: 29
+      alignment: 9
+      pivot: {x: 0.48, y: 0.4827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c733bc95ffffc38a0800000000000000
+      internalID: -6323898304546786436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Blood_Big_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 984
+        width: 30
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff3d3965ff21ec10800000000000000
+      internalID: 2080997233900994556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Gore_4
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1003
+        width: 13
+        height: 10
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1ebe97548f061e0800000000000000
+      internalID: -2206490840129609218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Gore_5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1003
+        width: 11
+        height: 10
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e899d2824dd254b30800000000000000
+      internalID: 4270870210861177230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Gore_6
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1002
+        width: 11
+        height: 11
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.54545456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143f321fa0778fe90800000000000000
+      internalID: -6991707532613651647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Gore_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1004
+        width: 12
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b86f6cc5324e010800000000000000
+      internalID: 1217136680678886159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Muzzle_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 998
+        width: 15
+        height: 13
+      alignment: 9
+      pivot: {x: 0, y: 0.4615385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7b2d9ee1d7e6ba0800000000000000
+      internalID: -6093795674060310589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Blood_Big_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 984
+        width: 29
+        height: 26
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d988a2a72cce19da0800000000000000
+      internalID: -5939706113507555171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Froggit_Body_0
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1002
+        width: 18
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc11f9e4e38fe75f0800000000000000
+      internalID: -756894740860956213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Froggit_Gore_1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1002
+        width: 13
+        height: 8
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb5286bc7c18cf30800000000000000
+      internalID: 4595954741695110068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Frisk_Gore_1
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 998
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d609f4fb67cf210800000000000000
+      internalID: 1368098950859484483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Frisk_Gore_2
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 997
+        width: 6
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1695ae008e0eebb00800000000000000
+      internalID: 846361067044624737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Gaster_Hand_2
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 997
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1e820e189c90250800000000000000
+      internalID: 5911477545549226430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Gaster_Hand_3
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 997
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6c11dcb4aef35c0800000000000000
+      internalID: -4233407513421035856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_SMG_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 991
+        width: 31
+        height: 10
+      alignment: 9
+      pivot: {x: 0.3548387, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b754822e171d1f0800000000000000
+      internalID: -1021910424284202096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 997
+        width: 7
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3228348c79128b220800000000000000
+      internalID: 2501786528787956259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Gore_8
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 991
+        width: 13
+        height: 11
+      alignment: 9
+      pivot: {x: 0.4615385, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269d0f72a2dd592c0800000000000000
+      internalID: -4425387885693183646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Gore_9
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 988
+        width: 15
+        height: 13
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.4615385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77db40114bc4b47d0800000000000000
+      internalID: -2933166396038398601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Gore_10
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 990
+        width: 15
+        height: 11
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959d10d37af397fb0800000000000000
+      internalID: -4649615152767706791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Gore_11
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 988
+        width: 8
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d9eef3a252a02e0800000000000000
+      internalID: -2158872207979274886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 991
+        width: 16
+        height: 6
+      alignment: 9
+      pivot: {x: 0.8125, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46476cd08ae7b420800000000000000
+      internalID: 2645841145277924941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Gaster_Hand_0
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 988
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c11779b8d18f000800000000000000
+      internalID: 69838279602674730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Gaster_Hand_1
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 988
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7bf4286c32fee50800000000000000
+      internalID: 6840725694495832063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_Shotgun_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 980
+        width: 35
+        height: 10
+      alignment: 9
+      pivot: {x: 0.08571429, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a227494c040ab1690800000000000000
+      internalID: -7630328943612759510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 980
+        width: 22
+        height: 10
+      alignment: 9
+      pivot: {x: 0.8181819, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17173446b6489f120800000000000000
+      internalID: 2448133469231083889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_Pistol_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 970
+        width: 15
+        height: 9
+      alignment: 9
+      pivot: {x: 0.20000002, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52e88395debab820800000000000000
+      internalID: 2934867931697832540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Blood_Small_12
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1011
+        width: 3
+        height: 4
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150288075e94a3bd0800000000000000
+      internalID: -2649724180969807791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Blood_Small_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1012
+        width: 4
+        height: 3
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91dc30806b2770890800000000000000
+      internalID: -7491893328963449575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Shell_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 994
+        width: 3
+        height: 2
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede486498b27f2480800000000000000
+      internalID: -8921786199708250402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Shell_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 991
+        width: 3
+        height: 2
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ed932c71f48d470800000000000000
+      internalID: 8419566466830556788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasterFull
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 0
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48281ffacca5b3e30800000000000000
+      internalID: 4484277689149129348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Whimsun_Left_0
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 999
+        width: 25
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002eece58765da410800000000000000
+      internalID: 1489942126716183040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Whimsun_Left_1
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 999
+        width: 25
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b2fbfb491d40810800000000000000
+      internalID: 1730738593619454857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Whimsun_Left_2
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 999
+        width: 25
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d172f87c3b12ac0800000000000000
+      internalID: -3881623734135087837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Whimsun_Left_3
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 999
+        width: 25
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831e78ba0e7ea8870800000000000000
+      internalID: 8686009783473922360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Whimsun_Gore_0
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1007
+        width: 18
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c252bb5cee08f40800000000000000
+      internalID: 5728841259031014493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Whimsun_Gore_1
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 992
+        width: 14
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ee3e3d0081e4110800000000000000
+      internalID: 1246960538662202943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Whimsun_Gore_2
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 982
+        width: 8
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc1bf58e9ddebfc0800000000000000
+      internalID: -3477098189361046332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Whimsun_Right_0
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 974
+        width: 25
+        height: 24
+      alignment: 9
+      pivot: {x: 0.52, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f2de018e105db40800000000000000
+      internalID: 5464275819111984959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Whimsun_Right_1
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 974
+        width: 25
+        height: 24
+      alignment: 9
+      pivot: {x: 0.52, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f97dc9c2f268320800000000000000
+      internalID: 2559785306863148863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Whimsun_Right_2
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 974
+        width: 25
+        height: 24
+      alignment: 9
+      pivot: {x: 0.52, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b1db8e8d0f32c60800000000000000
+      internalID: 7792336594689399677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Whimsun_Right_3
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 974
+        width: 25
+        height: 24
+      alignment: 9
+      pivot: {x: 0.52, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf42faa47f337f70800000000000000
+      internalID: 9183753835455336362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Whimsun_0
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1008
+        width: 14
+        height: 15
+      alignment: 9
+      pivot: {x: 0.42857146, y: 0.4666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b6a8c43a0362060800000000000000
+      internalID: 6928278554678029093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Whimsun_1
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 996
+        width: 14
+        height: 11
+      alignment: 9
+      pivot: {x: 0.42857146, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f91838f870b8db30800000000000000
+      internalID: 4312390676814240243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Whimsun_Gore_0
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 988
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.42857146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6b9cc13e60f6f70800000000000000
+      internalID: 9182565737742055124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Whimsun_Gore_1
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 990
+        width: 6
+        height: 5
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab2a4a00207486a0800000000000000
+      internalID: -6447905483573810270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Whimsun_Gore_2
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 980
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0.42857146, y: 0.42857146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4c3d0763ca774c0800000000000000
+      internalID: -4289770770225969946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Loox_Down_0
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 998
+        width: 23
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.39999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c970a359da87a90800000000000000
+      internalID: -7315906738228061036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Loox_Down_3
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 972
+        width: 23
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.39999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d804b72d9ecce1eb0800000000000000
+      internalID: -4747131652571185011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Loox_Down_1
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 998
+        width: 22
+        height: 25
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.39999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0411a281486dd6d20800000000000000
+      internalID: 3273508366997655872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Loox_Down_2
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 998
+        width: 22
+        height: 25
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.39999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfb2f9c02becd320800000000000000
+      internalID: 2584198812263432119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Loox_Down_4
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 972
+        width: 22
+        height: 25
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.39999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f0f483e2c6580f0800000000000000
+      internalID: -1115366386935329007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Loox_Down_5
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 972
+        width: 22
+        height: 25
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.39999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8f03e7e4f1c3b20800000000000000
+      internalID: 3115399464218589421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Loox_Attack_Down_0
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 998
+        width: 27
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0.39999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfa5c6d7513a06e0800000000000000
+      internalID: -1870628441883824188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Loox_Gore_0
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 979
+        width: 17
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0302819959192f40800000000000000
+      internalID: 5704118275525444365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Loox_Gore_1
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 970
+        width: 6
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91342d9aa58339300800000000000000
+      internalID: 257611565737591577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Loox_Gore_2
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 971
+        width: 11
+        height: 7
+      alignment: 9
+      pivot: {x: 0.6363636, y: 0.42857146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e1e385cfca2e2a0800000000000000
+      internalID: -6709610295016415654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Loox_0
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 987
+        width: 10
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5f2a9edb074b9a0800000000000000
+      internalID: -6218221224520911395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Loox_1
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 978
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404270547ffea80e0800000000000000
+      internalID: -2266735617133566972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Loox_2
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 971
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71992c28cf0da1910800000000000000
+      internalID: 1808987983286802711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Froggit_Head_1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 991
+        width: 19
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63030800b8697af0800000000000000
+      internalID: -398171986787630225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Froggit_Head_2
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 988
+        width: 19
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa661a43cdaf8de0800000000000000
+      internalID: -1328652310777795933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 974
+        width: 10
+        height: 5
+      alignment: 9
+      pivot: {x: 0.8, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cccb72c85b8b230800000000000000
+      internalID: 3654870711177890881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 974
+        width: 15
+        height: 5
+      alignment: 9
+      pivot: {x: 0.8000001, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06ef954adb68b5c0800000000000000
+      internalID: -4199488067307837942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Lightning_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 975
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a55b6f5e38cf76d0800000000000000
+      internalID: -2990451457336322651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Lightning_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 975
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1867e73bc7004c0800000000000000
+      internalID: -4323318531912990231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Lightning_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 975
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b21e1b6b68bba830800000000000000
+      internalID: 4083560258639631033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Explosion_0
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 978
+        width: 49
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5102041, y: 0.51111114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e26330e3971e8f0800000000000000
+      internalID: -512995575294710143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Smoke_0
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 971
+        width: 11
+        height: 12
+      alignment: 9
+      pivot: {x: 0.36363637, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7035eba76df34c6e0800000000000000
+      internalID: -1818258159135993081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Smoke_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 970
+        width: 13
+        height: 13
+      alignment: 9
+      pivot: {x: 0.4615385, y: 0.4615385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21180868d4eb8e080800000000000000
+      internalID: -9157860602079575790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Smoke_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 969
+        width: 16
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cac0527ad9acbf0800000000000000
+      internalID: -303256683687400439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Portal_0
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 992
+        width: 1
+        height: 17
+      alignment: 9
+      pivot: {x: 1, y: 0.5294118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9558bc9b5b06a7b0800000000000000
+      internalID: -5213467030535514723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Portal_1
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 979
+        width: 6
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e83d0201b7d4d60800000000000000
+      internalID: 7876086632541294176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Portal_2
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 979
+        width: 16
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5625, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80884f98d478ef00800000000000000
+      internalID: 1146294578899878029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Portal_3
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 979
+        width: 23
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5652174, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327e0c7dd5aef2dc0800000000000000
+      internalID: -3661450283256322269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Portal_4
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 979
+        width: 23
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae92fd3d4f4c4afe0800000000000000
+      internalID: -1178600646658545174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Flowey_Down_0
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 996
+        width: 22
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1183281497fa692b0800000000000000
+      internalID: -5578078153126823919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Flowey_Hide_0
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 996
+        width: 22
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3703704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b4ee681681bef80800000000000000
+      internalID: -8076334699604194449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Flowey_Hide_1
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 996
+        width: 22
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43478262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b39f0ac4137a0d20800000000000000
+      internalID: 3245533014600422326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Flowey_Hide_2
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1014
+        width: 22
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b223558f17045dc30800000000000000
+      internalID: 4383480670556860971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_FloweyDump_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 972
+        width: 21
+        height: 21
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1dab6ec9f0cf330800000000000000
+      internalID: 3745886156625727995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_FloweyDump_Move_0
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 972
+        width: 21
+        height: 23
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.3478261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506e1f56c11e6e970800000000000000
+      internalID: 8783955635318416901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_FloweyDump_Move_1
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 972
+        width: 21
+        height: 23
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.3478261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b619de1b3a02d810800000000000000
+      internalID: 1788503251056400056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_FloweyDump_Move_2
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 972
+        width: 21
+        height: 22
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.36363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e332c583dbff8af50800000000000000
+      internalID: 6893040417850008382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_FloweyDump_Gore_0
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1000
+        width: 15
+        height: 13
+      alignment: 9
+      pivot: {x: 0.6, y: 0.3846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7c311b07cc6e4a0800000000000000
+      internalID: -6564334622466652213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_FloweyDump_Gore_1
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1000
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96181d91f4f1d2a30800000000000000
+      internalID: 4192041252747837801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_FloweyDump_Gore_2
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1000
+        width: 8
+        height: 7
+      alignment: 9
+      pivot: {x: 0.25, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cbaea846b1d3060800000000000000
+      internalID: 6934729119861750785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_FloweyDump_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 950
+        width: 16
+        height: 21
+      alignment: 9
+      pivot: {x: 0.75, y: 0.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dedfa27e840cfdb0800000000000000
+      internalID: -4756922096554090793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_FloweyDump_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 950
+        width: 18
+        height: 21
+      alignment: 9
+      pivot: {x: 0.7777778, y: 0.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4871a5fe0bd5520800000000000000
+      internalID: 2692502694292587767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_FloweyDump_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 950
+        width: 19
+        height: 21
+      alignment: 9
+      pivot: {x: 0.57894737, y: 0.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fc3421ce15c3a00800000000000000
+      internalID: 737554513342484364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_FloweyDump_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 950
+        width: 17
+        height: 21
+      alignment: 9
+      pivot: {x: 0.29411766, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea9cf1b651597110800000000000000
+      internalID: 1259127003621923561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Flowey_0
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1015
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d691d6608b4228d0800000000000000
+      internalID: -2872650597456046380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Flowey_Head_0
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 984
+        width: 22
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1e7079c9e9990c0800000000000000
+      internalID: -4568445951604694530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Flowey_Body_0
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1010
+        width: 5
+        height: 13
+      alignment: 9
+      pivot: {x: 0.6, y: 0.4615385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a470dfb9861d400800000000000000
+      internalID: 347173665458571914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Flowey_BodyLow_0
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1018
+        width: 10
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee4a17b1b64cb6a0800000000000000
+      internalID: -6432188438696800539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Ground_0
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 974
+        width: 13
+        height: 13
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.4615385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ba2405c44cbe890800000000000000
+      internalID: -7427627328374396110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Ground_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 971
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65aaa567ad4c3840800000000000000
+      internalID: 5205120650694010223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Ground_2
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 974
+        width: 11
+        height: 13
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.4615385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9b4962c47490a30800000000000000
+      internalID: 4181952121380583880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Ground_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 979
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad95d936887d79e0800000000000000
+      internalID: -1622007772892258908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Ground_4
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 978
+        width: 7
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9898b1f8624793ba0800000000000000
+      internalID: -6108723710592841335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Ground_Hole_0
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 966
+        width: 21
+        height: 21
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.47619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50738fa7386a683a0800000000000000
+      internalID: -6663455515014056187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Ground_Hole_1
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 968
+        width: 19
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75de47a75f061eab0800000000000000
+      internalID: -4980593105457320617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Flowey_FaceG_0
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 964
+        width: 16
+        height: 13
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.3846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d781ea1cbb1a5eb0800000000000000
+      internalID: -4730437963880495149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Flowey_FaceG_1
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 962
+        width: 23
+        height: 15
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c856ca9e18446d3a0800000000000000
+      internalID: -6641045275749358196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Flowey_FaceG_3
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 958
+        width: 25
+        height: 20
+      alignment: 9
+      pivot: {x: 0.52, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99c49f1014ed3c70800000000000000
+      internalID: 8952562392182868380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Flowey_FaceG_4
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 958
+        width: 22
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd1b6c74d3a96d50800000000000000
+      internalID: 6731091251097705976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Flowey_FaceG_5
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 957
+        width: 24
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f11a7a45b6a4ff10800000000000000
+      internalID: 2302648607061971442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Flowey_FaceG_2
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 943
+        width: 25
+        height: 18
+      alignment: 9
+      pivot: {x: 0.52, y: 0.2777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488bd175974586000800000000000000
+      internalID: 29366277707249796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Flowey_Face_Big_0
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 935
+        width: 23
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacf77fbe9b5cb200800000000000000
+      internalID: 197133221072731306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Flowey_Face_Big_1
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 935
+        width: 23
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.23809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6ff0a137efde590800000000000000
+      internalID: -7643173222265915714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Flowey_Face_Big_2
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 934
+        width: 23
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.22727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c966c1302230ee80800000000000000
+      internalID: -8151460211685168702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Flowey_Face_0
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 982
+        width: 12
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ec6d6b33bb60f20800000000000000
+      internalID: 3388601600428134044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Flowey_FaceG_6
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 982
+        width: 13
+        height: 10
+      alignment: 9
+      pivot: {x: 0.4615385, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39019676abf17570800000000000000
+      internalID: 8462821867178232124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Flowey_Face_Big_4
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 977
+        width: 21
+        height: 15
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.4666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec98cc30f489d690800000000000000
+      internalID: -7576878730727351062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Flowey_Face_Big_5
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 977
+        width: 21
+        height: 15
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.4666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b8d281402d99d30800000000000000
+      internalID: 4438809822777674598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Dummy_Head_0
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 981
+        width: 16
+        height: 12
+      alignment: 9
+      pivot: {x: 0.6875, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d68296d66358250800000000000000
+      internalID: 5946218726556200301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Dummy_Head_1
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 981
+        width: 16
+        height: 12
+      alignment: 9
+      pivot: {x: 0.6875, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29aeecfafed1fc80800000000000000
+      internalID: -8290600269445682902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Dummy_Head_2
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 981
+        width: 16
+        height: 12
+      alignment: 9
+      pivot: {x: 0.6875, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ff8247aa95da5d0800000000000000
+      internalID: -3049682784031801550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Dummy_Head_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 981
+        width: 16
+        height: 12
+      alignment: 9
+      pivot: {x: 0.6875, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3beac7b934d0af80800000000000000
+      internalID: -8097238785650398401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Dummy_Head_4
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 978
+        width: 11
+        height: 15
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.4666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caeda845481f72580800000000000000
+      internalID: -8851840991917056340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Dummy_Head_5
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 978
+        width: 11
+        height: 15
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.4666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5ea8facc8d12d40800000000000000
+      internalID: 5557961788781946305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Dummy_Leg_1
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 985
+        width: 12
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1207e81dad078c6e0800000000000000
+      internalID: -1817078364523040735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Dummy_Leg_2
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 976
+        width: 12
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65bca92cf90355c0800000000000000
+      internalID: -4228024646535170710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Dummy_Leg_0
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 969
+        width: 12
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5062cea3930cba30800000000000000
+      internalID: 4232261682648473691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Dummy_Hips_2
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 969
+        width: 13
+        height: 8
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4343b98704ba2180800000000000000
+      internalID: -9139294549327002801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Dummy_Hips_1
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 972
+        width: 13
+        height: 8
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06ccf4d972a76910800000000000000
+      internalID: 1830610417697474061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Dummy_Hips_0
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 972
+        width: 13
+        height: 8
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3f552cf32019120800000000000000
+      internalID: 2418716947741275113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Dummy_Body_2
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 971
+        width: 11
+        height: 9
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58abc86d7b35a2400800000000000000
+      internalID: 300144374217226885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Dummy_Body_1
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 971
+        width: 11
+        height: 9
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9534c5ff3bbeb6ed0800000000000000
+      internalID: -2419581216465599655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Dummy_Body_0
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 971
+        width: 11
+        height: 9
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398487debdb6d60f0800000000000000
+      internalID: -1122122139819292525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Steel_Sword_0
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 959
+        width: 53
+        height: 11
+      alignment: 9
+      pivot: {x: 0.16981132, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a8ac6ef9512a9b0800000000000000
+      internalID: -5070466453949740512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Stuff_Helmet_Guard
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 970
+        width: 17
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.43478262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fa77437937c3a50800000000000000
+      internalID: 6502199055273668477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Stuff_Shield_Guard
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 954
+        width: 35
+        height: 39
+      alignment: 9
+      pivot: {x: 0.51428574, y: 0.4871795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90802ca4b74c69a30800000000000000
+      internalID: 4221777734520670217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DummyFull
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 19
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5539a46d3502c00800000000000000
+      internalID: 873790507549152672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Stuff_Shield_Guard_Break0
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 968
+        width: 16
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5625, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9f16be66cde9dc0800000000000000
+      internalID: -3630221915020199429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Stuff_Shield_Guard_Break1
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 970
+        width: 18
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f1416f0bda7d8f0800000000000000
+      internalID: -515752656756269255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_Stuff_Shield_Guard_Break2
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 955
+        width: 20
+        height: 12
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5833334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84786aae020542f10800000000000000
+      internalID: 2244006616643307336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Spark_1
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 968
+        width: 2
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14bb5267cddbf7a0800000000000000
+      internalID: -6342231801802804193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Spark_3
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 968
+        width: 2
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4615385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44f9d7751626fb50800000000000000
+      internalID: 6626525775369204815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Spark_2
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 968
+        width: 3
+        height: 13
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.4615385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112ec6675a5a4fd80800000000000000
+      internalID: -8217761289969278447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Spark_0
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 976
+        width: 5
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9456c41f9ebd3160800000000000000
+      internalID: 7006966185715979421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Bonus_Heal
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 977
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5889f6eddce4f00800000000000000
+      internalID: 1103045313991050670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Bonus_1
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 977
+        width: 1
+        height: 6
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ffc759ccf6474b0800000000000000
+      internalID: -5443603125112078557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Bonus_0
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 977
+        width: 4
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed30e11de2d5bdfa0800000000000000
+      internalID: -5774919641514245154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Bonus_Damage
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 977
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8081dd4988c103980800000000000000
+      internalID: -8561311518692665336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaster_Text_0
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 941
+        width: 24
+        height: 28
+      alignment: 9
+      pivot: {x: 0.45833334, y: 0.39285716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6712da76ed2896640800000000000000
+      internalID: 5073730346943324534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaster_Text_1
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 955
+        width: 27
+        height: 14
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728caa97450ca32d0800000000000000
+      internalID: -3298112308044445657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaster_Text_2
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 939
+        width: 24
+        height: 30
+      alignment: 9
+      pivot: {x: 0.45833334, y: 0.4666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5516015b4f55610800000000000000
+      internalID: 1609461500355892709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaster_Text_3
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 943
+        width: 17
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.42307693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4596dbe1df8fb01d0800000000000000
+      internalID: -3383336929012651692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaster_Text_4
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 944
+        width: 21
+        height: 25
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7889bd2816ac8bb70800000000000000
+      internalID: 8915097982535964807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaster_Text_5
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 942
+        width: 25
+        height: 27
+      alignment: 9
+      pivot: {x: 0.44, y: 0.3703704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d7d7b55ee352de0800000000000000
+      internalID: -1358610557778952931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaster_Text_6
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 944
+        width: 23
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a68aadc17512d490800000000000000
+      internalID: -7723086832460986713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaster_Text_7
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 942
+        width: 14
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2ab1477ccf30aa0800000000000000
+      internalID: -6195830728755010885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaster_Text_8
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 945
+        width: 22
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13aac683a1e88b30800000000000000
+      internalID: 4289926737527743262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaster_Text_9
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 943
+        width: 20
+        height: 26
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4615385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e61d7d07a2fc6e40800000000000000
+      internalID: 5651158431742891747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaster_Text_10
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 945
+        width: 22
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6324afabd1b66a0800000000000000
+      internalID: -6455032952005708110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Halo
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 972
+        width: 11
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eca4f64a147ac860800000000000000
+      internalID: 7550975381448469728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_FroggitGirl_Head_0
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 960
+        width: 17
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18181819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe3d17501f58e850800000000000000
+      internalID: 6406474993720180466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character_FroggitGirl_Body_0
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 950
+        width: 17
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cece616cd9df92130800000000000000
+      internalID: 3542641435978689772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

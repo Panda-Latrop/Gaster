@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/Scenes/level0_ruins_\u0441rater.unity"
+    guid: 6dd5f3ef1411cab49823324fb6a109bc
+  - enabled: 1
+    path: Assets/Scenes/level1_ruins_darkhole.unity
+    guid: fdbe34116bfbeef449d4f58bd4bb48dc
+  - enabled: 1
+    path: Assets/Scenes/level2_ruins_frontdoor.unity
+    guid: 590141fabdd8b1849908c752edf083dd
+  - enabled: 1
+    path: Assets/Scenes/level3_ruins_smallpuzzle.unity
+    guid: 913f3cfb203d421488fa6c6b8f55c113
+  - enabled: 1
+    path: Assets/Scenes/level4_ruins_leverroom.unity
+    guid: a3919fe7af722fa4b9c48bc4be086326
+  - enabled: 1
+    path: Assets/Scenes/level5_ruins_dummytrain.unity
+    guid: 0d27e6ba4734c4e4697ca735907ce54f
+  - enabled: 1
+    path: Assets/Scenes/level6_ruins_spikearea.unity
+    guid: 132a02befbcc670439d117bd7f856d25
+  m_configObjects: {}
