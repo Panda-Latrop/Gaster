@@ -5,7 +5,7 @@ using UnityEngine;
 public class AnimationCharacterComponent : AnimationBaseComponent
 {
     [SerializeField]
-    protected CharacterOrientationBaseComponent characterOrientation;
+    protected OrientationComponent orientation;
     [SerializeField]
     protected CharacterMovementComponent characterMovement;
 
@@ -42,7 +42,7 @@ public class AnimationCharacterComponent : AnimationBaseComponent
         Vector2 direction = characterMovement.Direction;
         animator.SetFloat(moveDirectionXHash, direction.x);
         animator.SetFloat(moveDirectionYHash, direction.y);
-        Vector2 orientation = characterOrientation.Orientation;
+        Vector2 orientation = this.orientation.Direction;
         animator.SetFloat(lookOrientationXHash, orientation.x);
         animator.SetFloat(lookOrientationYHash, orientation.y);
         float sign;

@@ -381,7 +381,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animator: {fileID: 7536900724074636619}
-  characterOrientation: {fileID: 7536900724116337951}
+  orientation: {fileID: 7536900724116337951}
   characterMovement: {fileID: 7536900724116337950}
 --- !u!114 &4609286375311572569
 MonoBehaviour:
@@ -513,7 +513,7 @@ MonoBehaviour:
   capsule: {fileID: 7536900724116337940}
   useHitEvent: 0
   rigidbody: {fileID: 7536900724116337947}
-  characterOrientation: {fileID: 7536900724116337951}
+  orientation: {fileID: 7536900724116337951}
   characterMovement: {fileID: 7536900724116337950}
   specifier: _boss_flowey
   spriteRendererHolder: {fileID: 4609286375311572569}
@@ -535,7 +535,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isAlive: 1
   isImmortal: 0
-  maxHealth: 1
+  maxHealth: 500
   isMorale: 1
   isAmoral: 1
   maxMorale: 1000
@@ -567,7 +567,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 355b1c79a1c16f64daa17b23fb13cee5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  orientation: {x: 0, y: -1}
+  direction: {x: 1, y: 0}
 --- !u!114 &7536900724116337950
 MonoBehaviour:
   m_ObjectHideFlags: 0

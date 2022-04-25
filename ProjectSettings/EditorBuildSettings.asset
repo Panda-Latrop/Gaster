@@ -26,4 +26,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/level6_ruins_spikearea.unity
     guid: 132a02befbcc670439d117bd7f856d25
+  - enabled: 1
+    path: Assets/Scenes/level7_ruins_rockrun.unity
+    guid: f7055426e56c86647a36b5d295ceb2e0
+  - enabled: 1
+    path: Assets/Scenes/level8_ruins_friendlyfrog.unity
+    guid: db1a65ee3aa6e3a4aa0cc7152bae8c07
   m_configObjects: {}

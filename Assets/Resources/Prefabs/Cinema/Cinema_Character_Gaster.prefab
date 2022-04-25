@@ -247,7 +247,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animator: {fileID: 7356332633154999777}
-  characterOrientation: {fileID: 4905612663785448814}
+  orientation: {fileID: 4905612663785448814}
   characterMovement: {fileID: 7016697897844275280}
 --- !u!1 &5863928236016592198
 GameObject:
@@ -512,7 +512,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3428b14dc15f59848a7f90eec9c7ecdc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  orientation: {x: 0, y: -1}
+  direction: {x: 1, y: 0}
   characterMovement: {fileID: 7016697897844275280}
 --- !u!114 &7016697897844275280
 MonoBehaviour:

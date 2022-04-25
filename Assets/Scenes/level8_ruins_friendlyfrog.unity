@@ -5075,11 +5075,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 115351351440606733, guid: 7ba4b9d687c4ba24f8684bf75c8c7311, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -30
+      value: -0.9999992
       objectReference: {fileID: 0}
     - target: {fileID: 115351351440606733, guid: 7ba4b9d687c4ba24f8684bf75c8c7311, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -21
+      value: 0.0000003799796
       objectReference: {fileID: 0}
     - target: {fileID: 115351351440606733, guid: 7ba4b9d687c4ba24f8684bf75c8c7311, type: 3}
       propertyPath: m_LocalPosition.z
@@ -5115,11 +5115,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2320493779444572420, guid: 7ba4b9d687c4ba24f8684bf75c8c7311, type: 3}
       propertyPath: m_Name
-      value: TriggerCollision_Level5_Enter1
+      value: TriggerCollision_Level7_Enter1
       objectReference: {fileID: 0}
     - target: {fileID: 2320493779444572420, guid: 7ba4b9d687c4ba24f8684bf75c8c7311, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7198717275761674453, guid: 7ba4b9d687c4ba24f8684bf75c8c7311, type: 3}
       propertyPath: saveTag
@@ -5139,11 +5139,11 @@ PrefabInstance:
       objectReference: {fileID: 727575654}
     - target: {fileID: 7361331995949854130, guid: 7ba4b9d687c4ba24f8684bf75c8c7311, type: 3}
       propertyPath: m_Size.x
-      value: 4
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7361331995949854130, guid: 7ba4b9d687c4ba24f8684bf75c8c7311, type: 3}
       propertyPath: m_Size.y
-      value: 2
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 8907705668941107955, guid: 7ba4b9d687c4ba24f8684bf75c8c7311, type: 3}
       propertyPath: actions.Array.size
@@ -5178,7 +5178,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   waitForEnd: 0
-  toLevel: level3_ruins_smallpuzzle
+  toLevel: level7_ruins_rockrun
   toEnter: 1
 --- !u!1001 &856072560
 PrefabInstance:
@@ -16595,7 +16595,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5293785566716202154, guid: 41bdc975272f2964ea59c113531defe9, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 7.3
       objectReference: {fileID: 0}
     - target: {fileID: 5293785566716202154, guid: 41bdc975272f2964ea59c113531defe9, type: 3}
       propertyPath: m_LocalPosition.y

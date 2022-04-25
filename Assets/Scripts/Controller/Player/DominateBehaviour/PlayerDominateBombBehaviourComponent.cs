@@ -54,6 +54,8 @@ public class PlayerDominateBombBehaviourComponent : PlayerDominateBehaviourBaseC
             {
                 character.CharacterMovement.speedMultiply = 4.0f;
                 var result =  character.CharacterMovement.MoveTo(target);
+                if(result.Equals(MovePathResult.fail))
+                    Explosion();
             }
             else
             {

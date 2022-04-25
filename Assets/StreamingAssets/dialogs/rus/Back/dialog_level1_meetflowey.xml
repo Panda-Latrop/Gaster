@@ -1,0 +1,17 @@
+<root>
+<branch>
+<dialog>
+<phrase person="Flowey" face="0" sound="0">Привет! Я Флауи...</phrase>
+<phrase person="Flowey" face="0" sound="0">Стопэ-э!? Где упавшая небинарная пресона?</phrase>
+<phrase person="Gaster" face="0" sound="0">Это та, которую замочили?</phrase>
+<phrase person="Flowey" face="0" sound="0">Что!? Сука! Блять!</phrase>
+<phrase person="Flowey" face="0" sound="0">А я такую филосовкую цитату придумал.</phrase>
+<phrase person="Flowey" face="0" sound="0">Ладно. Раз небинарной пресоны больше нет, слушать будешь ты.</phrase>
+<phrase person="Flowey" face="0" sound="0">Ну значит. Есть два стула...</phrase>
+<phrase person="Gaster" face="0" sound="0">У меня плохое предчувствие.</phrase>
+<phrase person="Flowey" face="0" sound="0">На одном монстры ёбнули тебя...</phrase>
+<phrase person="Flowey" face="0" sound="0">На другом монстров ёбнул ты.</phrase>
+<phrase person="Flowey" face="0" sound="0">Угадай, который твой?</phrase>
+</dialog>
+</branch>
+</root>

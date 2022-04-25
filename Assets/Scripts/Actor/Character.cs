@@ -13,7 +13,7 @@ public class Character : Pawn
     [SerializeField]
     protected new Rigidbody2D rigidbody;
     [SerializeField]
-    protected CharacterOrientationBaseComponent characterOrientation;
+    protected OrientationComponent orientation;
     [SerializeField]
     protected CharacterMovementComponent characterMovement;
 
@@ -23,7 +23,7 @@ public class Character : Pawn
 
     public CapsuleCollider2D Capsule { get => capsule; }
     public Rigidbody2D Rigidbody { get => rigidbody; }
-    public CharacterOrientationBaseComponent CharacterOrientation { get => characterOrientation; }
+    public OrientationComponent Orientation { get => orientation; }
     public CharacterMovementComponent CharacterMovement { get => characterMovement; }
 
     protected override void Start()
@@ -31,9 +31,9 @@ public class Character : Pawn
         base.Start();
         if (transform.localRotation.y == 1.0f || transform.localRotation.y == -1.0f)
         {
-            Vector2 orientation = characterOrientation.Orientation;
+            Vector2 orientation = this.orientation.Direction;
             orientation.x *= -1.0f;
-            characterOrientation.Orientation = orientation;
+            this.orientation.Direction = orientation;
             Vector2 direction = characterMovement.Direction;
             direction.x *= -1.0f;
             characterMovement.Direction = direction;
@@ -51,15 +51,13 @@ public class Character : Pawn
     {
         return characterMovement.MoveTo(point, forceChangePath);
     }
-   
-    #region Hurt
     protected override void OnDeath(DamageStruct ds, RaycastHit2D raycastHit)
     {
         capsule.enabled = false;
         rigidbody.velocity = Vector3.zero;
         rigidbody.rotation = 0.0f;
         rigidbody.simulated = false;
-        characterOrientation.enabled = false;
+        orientation.enabled = false;
         characterMovement.Stop();
         characterMovement.enabled = false;
 
@@ -70,13 +68,10 @@ public class Character : Pawn
     {
         capsule.enabled = true;
         rigidbody.simulated = true;
-        characterOrientation.enabled = true;
+        orientation.enabled = true;
         characterMovement.enabled = true;
         base.OnResurrect();
     }
-    #endregion
-
-    #region Delegate
     public void CallOnHit(Collision2D collision)
     {
         OnHit?.Invoke(collision);
@@ -93,9 +88,6 @@ public class Character : Pawn
     {
         OnHit = null;
     }
-    #endregion
-
-    #region Save
     public override JSONObject Save( JSONObject jsonObject)
     {
         base.Save( jsonObject);
@@ -103,7 +95,7 @@ public class Character : Pawn
         SaveSystem.ColliderSave(jsonObject, "physics", capsule);
         SaveSystem.RigidbodySave(jsonObject, rigidbody);
         jsonObject.Add("movement", characterMovement.Save(new JSONObject()));
-        jsonObject.Add("orientation", characterOrientation.Save(new JSONObject()));
+        jsonObject.Add("orientation", orientation.Save(new JSONObject()));
         return jsonObject;
     }
     public override JSONObject Load( JSONObject jsonObject)
@@ -113,13 +105,9 @@ public class Character : Pawn
         SaveSystem.ColliderLoad(jsonObject, "physics", capsule);
         SaveSystem.RigidbodyLoad(jsonObject, rigidbody);
         characterMovement.Load(jsonObject["movement"].AsObject);
-        characterOrientation.Load(jsonObject["orientation"].AsObject);
+        orientation.Load(jsonObject["orientation"].AsObject);
         return jsonObject;
     }
-    #endregion
-
-
-
     protected override void OnDestroy()
     {
         OnHit = null;
@@ -132,5 +120,4 @@ public class Character : Pawn
             CallOnHit(collision);
         }
     }
-
 }

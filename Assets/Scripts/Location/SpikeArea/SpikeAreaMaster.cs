@@ -26,6 +26,7 @@ public class SpikeAreaMaster : Actor
     [SerializeField]
     protected AudioSource source;
 
+# if UNITY_EDITOR
     [ContextMenu("Create")]
     public void Create()
     {
@@ -39,6 +40,7 @@ public class SpikeAreaMaster : Actor
         grid.ClearGrid();
         EditorUtility.SetDirty(this);
     }
+#endif
     [ContextMenu("Execute")]
     public void Execute()
     {

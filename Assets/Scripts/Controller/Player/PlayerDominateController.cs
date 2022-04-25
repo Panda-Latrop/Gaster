@@ -122,7 +122,7 @@ public class PlayerDominateController : PlayerController
         {
             if (!targets[i].Health.IsAlive)
             {
-                targets[i].SaveTag = "";
+                targets[i].SaveTag = string.Empty;
                 targets.RemoveAt(i);
                 i--;
             }

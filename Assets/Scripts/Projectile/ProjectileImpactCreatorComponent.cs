@@ -9,7 +9,7 @@ public class ProjectileImpactCreatorComponent : MonoBehaviour
     protected List<string> surfaces = new List<string>();
     [SerializeField]
     protected List<DynamicExecutor> impacts = new List<DynamicExecutor>();
-    private string surface = "";
+    private string surface = string.Empty;
     Dictionary<string, DynamicExecutor> dictionary = new Dictionary<string, DynamicExecutor>();
 
     protected void Start()
@@ -26,7 +26,7 @@ public class ProjectileImpactCreatorComponent : MonoBehaviour
         if (physicsMaterial != null)
             surface = physicsMaterial.name.Split('_')[1].ToLower();
         else
-            surface = "";
+            surface = string.Empty;
     }
     protected bool SurfaceSwitch(out int i)
     {

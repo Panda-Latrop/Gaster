@@ -46,7 +46,7 @@ public class ProjectileBulletBase : ProjectileBase
 
     protected override void HurtResultProcess(HurtResult hurtResult, Collider2D collider, RaycastHit2D raycastHit)
     {
-        if (!hurtResult.Equals(HurtResult.friend))
+        if (!hurtResult.Equals(HurtResult.friend) && !hurtResult.Equals(HurtResult.none))
         {
             if(!hurtResult.Equals(HurtResult.kill))
             {

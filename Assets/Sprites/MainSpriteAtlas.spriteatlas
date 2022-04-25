@@ -47,7 +47,7 @@ SpriteAtlas:
     - {fileID: 2800000, guid: e80e4171a664dcf47a021023c80d3da1, type: 3}
     - {fileID: 2800000, guid: 2c3e2ab9808768347a1a111b6a522cd4, type: 3}
     - {fileID: 2800000, guid: 780d0156722340049befa377f20f9df0, type: 3}
-    totalSpriteSurfaceArea: 447347
+    totalSpriteSurfaceArea: 453804
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
@@ -494,6 +494,9 @@ SpriteAtlas:
   - {fileID: 4073545773456851583, guid: 2c3e2ab9808768347a1a111b6a522cd4, type: 3}
   - {fileID: 5082435258556809244, guid: 2c3e2ab9808768347a1a111b6a522cd4, type: 3}
   - {fileID: -7163062468881799548, guid: 2c3e2ab9808768347a1a111b6a522cd4, type: 3}
+  - {fileID: 3322911190884143049, guid: 2c3e2ab9808768347a1a111b6a522cd4, type: 3}
+  - {fileID: -4433920922492924524, guid: 2c3e2ab9808768347a1a111b6a522cd4, type: 3}
+  - {fileID: -6937156672086367514, guid: 2c3e2ab9808768347a1a111b6a522cd4, type: 3}
   - {fileID: -6478221726955602647, guid: 2c3e2ab9808768347a1a111b6a522cd4, type: 3}
   - {fileID: -3626063708912597976, guid: 2c3e2ab9808768347a1a111b6a522cd4, type: 3}
   - {fileID: -1476321426951675592, guid: 2c3e2ab9808768347a1a111b6a522cd4, type: 3}
@@ -523,6 +526,9 @@ SpriteAtlas:
   - {fileID: 5120180401257246604, guid: 2c3e2ab9808768347a1a111b6a522cd4, type: 3}
   - {fileID: -596351143189067411, guid: 2c3e2ab9808768347a1a111b6a522cd4, type: 3}
   - {fileID: 2558025453492558911, guid: 2c3e2ab9808768347a1a111b6a522cd4, type: 3}
+  - {fileID: -3810671270751849904, guid: 2c3e2ab9808768347a1a111b6a522cd4, type: 3}
+  - {fileID: 1102441205376339265, guid: 2c3e2ab9808768347a1a111b6a522cd4, type: 3}
+  - {fileID: -8837932434687885801, guid: 2c3e2ab9808768347a1a111b6a522cd4, type: 3}
   - {fileID: -2347146553575810564, guid: 2c3e2ab9808768347a1a111b6a522cd4, type: 3}
   - {fileID: -58766824383573658, guid: 2c3e2ab9808768347a1a111b6a522cd4, type: 3}
   - {fileID: -4536487406096515698, guid: 2c3e2ab9808768347a1a111b6a522cd4, type: 3}
@@ -972,6 +978,9 @@ SpriteAtlas:
   - Location_Pillar_Broken_1
   - Location_UnderBrige_Ruins_1
   - Location_UnderBrige_Ruins_0
+  - Location_Thorn_1
+  - Location_Thorn_0
+  - Location_Thorn_2
   - Location_Set_Darkness_0
   - Location_Door_Ruins_0
   - Location_Door_Ruins_1
@@ -1001,6 +1010,9 @@ SpriteAtlas:
   - Location_UnderWallWaterDark_Ruins_0
   - Location_Sign_Long_0
   - Location_Decals_Ruins_0
+  - Location_Thorn_Part_1
+  - Location_Thorn_Part_0
+  - Location_Thorn_Part_2
   - Location_Lever_0
   - Location_Lever_1
   - Location_Plate_2

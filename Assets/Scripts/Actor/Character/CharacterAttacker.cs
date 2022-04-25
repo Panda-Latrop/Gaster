@@ -31,7 +31,7 @@ public class CharacterAttacker : Character , IPoolCharacterAttacker
     public virtual void OnPush()
     {
         health.Kill();
-        saveTag = "";
+        saveTag = string.Empty;
         gameObject.SetActive(false);
     }
     public virtual void OnPop()

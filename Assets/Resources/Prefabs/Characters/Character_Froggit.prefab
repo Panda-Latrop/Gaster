@@ -161,7 +161,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animator: {fileID: 2633915620465995413}
-  characterOrientation: {fileID: 2633915620558028481}
+  orientation: {fileID: 2633915620558028481}
   characterMovement: {fileID: 2633915620558028480}
 --- !u!114 &3289002539402864749
 MonoBehaviour:
@@ -293,7 +293,7 @@ MonoBehaviour:
   capsule: {fileID: 2633915620558028490}
   useHitEvent: 0
   rigidbody: {fileID: 2633915620558028485}
-  characterOrientation: {fileID: 2633915620558028481}
+  orientation: {fileID: 2633915620558028481}
   characterMovement: {fileID: 2633915620558028480}
   specifier: _froggit
   spriteRendererHolder: {fileID: 3289002539402864749}
@@ -347,7 +347,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3428b14dc15f59848a7f90eec9c7ecdc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  orientation: {x: 0, y: -1}
+  direction: {x: 1, y: 0}
   characterMovement: {fileID: 2633915620558028480}
 --- !u!114 &2633915620558028480
 MonoBehaviour:

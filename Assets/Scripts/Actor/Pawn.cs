@@ -85,7 +85,7 @@ public abstract class Pawn : Actor, IPerceptionTarget
         base.Save(jsonObject);
         jsonObject.Add("hasController", new JSONBool(hasController));
         if (hasController)
-            SaveSystem.ComponentReferenceSave(jsonObject, "", controller);
+            SaveSystem.ComponentReferenceSave(jsonObject, string.Empty, controller);
         jsonObject.Add("health", health.Save(new JSONObject()));
         return jsonObject;
     }
@@ -94,7 +94,7 @@ public abstract class Pawn : Actor, IPerceptionTarget
         base.Load(jsonObject);
         if (hasController = jsonObject["hasController"].AsBool)
         {
-            hasController = SaveSystem.ComponentReferenceLoad(jsonObject, "", ref controller);
+            hasController = SaveSystem.ComponentReferenceLoad(jsonObject, string.Empty, ref controller);
         }
         health.Load(jsonObject["health"].AsObject);
         return jsonObject;

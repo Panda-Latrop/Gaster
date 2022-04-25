@@ -181,7 +181,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3428b14dc15f59848a7f90eec9c7ecdc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  orientation: {x: 1, y: 0}
+  direction: {x: 1, y: 0}
   characterMovement: {fileID: 7543306458672575860}
 --- !u!114 &7543306458672575860
 MonoBehaviour:
@@ -201,6 +201,7 @@ MonoBehaviour:
   direction: {x: 0, y: -1}
   distanceToFocus: 5
   distanceToOffsetPath: 5
+  pushResistance: 0
   "pathArrival\u0421orrection": 0.25
   timeToRebuildPath: 3
 --- !u!1 &7543306458704591244
@@ -447,7 +448,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animator: {fileID: 7543306459874329435}
-  characterOrientation: {fileID: 7543306458672575861}
+  orientation: {fileID: 7543306458672575861}
   characterMovement: {fileID: 7543306458672575860}
 --- !u!1 &7543306460506724305
 GameObject:

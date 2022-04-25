@@ -143,6 +143,24 @@ TextureImporter:
   - first:
       213: -8104968654430523483
     second: Location_Pillar_Broken_Gib_1
+  - first:
+      213: -6937156672086367514
+    second: Location_Thorn_2
+  - first:
+      213: 3322911190884143049
+    second: Location_Thorn_1
+  - first:
+      213: -4433920922492924524
+    second: Location_Thorn_0
+  - first:
+      213: 1102441205376339265
+    second: Location_Thorn_Part_0
+  - first:
+      213: -3810671270751849904
+    second: Location_Thorn_Part_1
+  - first:
+      213: -8837932434687885801
+    second: Location_Thorn_Part_2
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -1226,6 +1244,132 @@ TextureImporter:
       bones: []
       spriteID: 5af2ef463fd558f80800000000000000
       internalID: -8104968654430523483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_Thorn_2
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 682
+        width: 48
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2af09e2c44abf90800000000000000
+      internalID: -6937156672086367514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_Thorn_1
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 682
+        width: 48
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfc1d06f1a5d1e20800000000000000
+      internalID: 3322911190884143049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_Thorn_0
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 682
+        width: 34
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d03a4b96c8772c0800000000000000
+      internalID: -4433920922492924524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_Thorn_Part_0
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 703
+        width: 29
+        height: 24
+      alignment: 9
+      pivot: {x: 0.7586207, y: 0.2916667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14dc5307f68ac4f00800000000000000
+      internalID: 1102441205376339265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_Thorn_Part_1
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 703
+        width: 11
+        height: 23
+      alignment: 9
+      pivot: {x: 0.72727275, y: 0.17391305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052bc074ba6cd1bc0800000000000000
+      internalID: -3810671270751849904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Location_Thorn_Part_2
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 682
+        width: 22
+        height: 34
+      alignment: 9
+      pivot: {x: 0.27272728, y: 0.14705883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e7689a64b595580800000000000000
+      internalID: -8837932434687885801
       vertices: []
       indices: 
       edges: []

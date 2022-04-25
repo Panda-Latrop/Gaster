@@ -12,7 +12,7 @@ public class MusicSystem : MonoBehaviour
     protected bool inCombat, canChange = true, softChange;
     protected int changeState;
     protected int musicId;
-    protected string path = "";
+    protected string path = string.Empty;
     protected AudioClip forChange;
     protected float fadeInSpeed = 2.0f, fadeOutSpeed = 1.25f;
     protected float time,softChangeTime = 3.0f,nextSoftChange;
@@ -70,7 +70,7 @@ public class MusicSystem : MonoBehaviour
     [ContextMenu("Change")]
     public void Change()
     {
-        path = "";
+        path = string.Empty;
         if (inCombat)
         {
             var rand = Random.Range(0, musicHolder.GetCombatCount());

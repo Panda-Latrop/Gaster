@@ -245,7 +245,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animator: {fileID: 7879955403494797004}
-  characterOrientation: {fileID: 7879955405163921048}
+  orientation: {fileID: 7879955405163921048}
   characterMovement: {fileID: 7879955405163921049}
 --- !u!114 &8213333068680293126
 MonoBehaviour:
@@ -458,7 +458,7 @@ MonoBehaviour:
   capsule: {fileID: 7879955405163921043}
   useHitEvent: 0
   rigidbody: {fileID: 7879955405163921052}
-  characterOrientation: {fileID: 7879955405163921048}
+  orientation: {fileID: 7879955405163921048}
   characterMovement: {fileID: 7879955405163921049}
   specifier: _whimsun
   spriteRendererHolder: {fileID: 8213333068680293126}
@@ -512,7 +512,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3428b14dc15f59848a7f90eec9c7ecdc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  orientation: {x: 1, y: 0}
+  direction: {x: 1, y: 0}
   characterMovement: {fileID: 7879955405163921049}
 --- !u!114 &7879955405163921049
 MonoBehaviour:

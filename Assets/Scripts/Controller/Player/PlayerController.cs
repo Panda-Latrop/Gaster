@@ -70,7 +70,7 @@ public class PlayerController : PlayerControllerBase
         else
         {
             if (Input.GetMouseButton(0))
-                player.WeaponHolderComponent.Shoot(player.WeaponHolderComponent.GetShootPoint(), player.CharacterOrientation.Orientation);
+                player.WeaponHolderComponent.Shoot(player.WeaponHolderComponent.GetShootPoint(), player.Orientation.Direction);
             else
             {
                 if (Input.GetMouseButtonUp(0))

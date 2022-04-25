@@ -80,12 +80,12 @@ public class DialogSystem : MonoBehaviour
         this.overrideInput = overrideInput;
         this.skipped = false;
 
-        string gkey = "";
-        string gvalue = "";
-        string person = "";
-        string text = "";
-        string to = "";
-        string attribute = "";
+        string gkey = string.Empty;
+        string gvalue = string.Empty;
+        string person = string.Empty;
+        string text = string.Empty;
+        string to = string.Empty;
+        string attribute = string.Empty;
 
         while (hasDialog && reader.Read())
         {

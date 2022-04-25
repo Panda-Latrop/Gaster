@@ -245,7 +245,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animator: {fileID: 7283854440401050467}
-  characterOrientation: {fileID: 7283854441383283511}
+  orientation: {fileID: 7283854441383283511}
   characterMovement: {fileID: 7283854441383283510}
 --- !u!114 &7799140723735715227
 MonoBehaviour:
@@ -427,7 +427,7 @@ MonoBehaviour:
   capsule: {fileID: 7283854441383283516}
   useHitEvent: 0
   rigidbody: {fileID: 7283854441383283507}
-  characterOrientation: {fileID: 7283854441383283511}
+  orientation: {fileID: 7283854441383283511}
   characterMovement: {fileID: 7283854441383283510}
   specifier: _floweydump
   spriteRendererHolder: {fileID: 7799140723735715227}
@@ -481,7 +481,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3428b14dc15f59848a7f90eec9c7ecdc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  orientation: {x: 0, y: -1}
+  direction: {x: 1, y: 0}
   characterMovement: {fileID: 7283854441383283510}
 --- !u!114 &7283854441383283510
 MonoBehaviour:

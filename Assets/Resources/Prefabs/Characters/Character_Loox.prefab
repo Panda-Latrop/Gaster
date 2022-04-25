@@ -160,7 +160,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animator: {fileID: 4234511614127444554}
-  characterOrientation: {fileID: 4234511614723342878}
+  orientation: {fileID: 4234511614723342878}
   characterMovement: {fileID: 4234511614723342879}
 --- !u!114 &7902422270276077912
 MonoBehaviour:
@@ -291,7 +291,7 @@ MonoBehaviour:
   capsule: {fileID: 4234511614723342869}
   useHitEvent: 0
   rigidbody: {fileID: 4234511614723342874}
-  characterOrientation: {fileID: 4234511614723342878}
+  orientation: {fileID: 4234511614723342878}
   characterMovement: {fileID: 4234511614723342879}
   specifier: _loox
   spriteRendererHolder: {fileID: 7902422270276077912}
@@ -345,7 +345,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 355b1c79a1c16f64daa17b23fb13cee5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  orientation: {x: 0, y: -1}
+  direction: {x: 1, y: 0}
 --- !u!114 &4234511614723342879
 MonoBehaviour:
   m_ObjectHideFlags: 0

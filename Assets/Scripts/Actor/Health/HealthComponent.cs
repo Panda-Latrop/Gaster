@@ -5,6 +5,7 @@ using UnityEngine;
 
 public enum HurtResult
 {
+    none,
     miss,
     friend,
     enemy,
@@ -102,7 +103,7 @@ public class HealthComponent : MonoBehaviour , IHealth, ISaveableComponent
             {
                 if (!isImmortal)
                 {
-                    currentHealth = currentHealth - ds.damage * (1 - fullResistance);
+                    currentHealth = currentHealth - ds.damage * (1 - currentResistance);
                     if (currentHealth <= 0)
                     {
                         isAlive = false;
@@ -118,7 +119,7 @@ public class HealthComponent : MonoBehaviour , IHealth, ISaveableComponent
                 return HurtResult.friend;
             }
         }
-        return HurtResult.miss;
+        return HurtResult.none;
     }
     public void Heal(float health)
     {

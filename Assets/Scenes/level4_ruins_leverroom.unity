@@ -485,6 +485,7 @@ MonoBehaviour:
   - 01
   - 2
   timeToWave: 1
+  obstacles: []
 --- !u!114 &93764631
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1111,7 +1112,7 @@ GameObject:
   - component: {fileID: 344363622}
   - component: {fileID: 344363623}
   m_Layer: 0
-  m_Name: Spawn0_Froggit
+  m_Name: Spawn0_Froggit 20
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10892,7 +10893,7 @@ GameObject:
   - component: {fileID: 966690882}
   - component: {fileID: 966690883}
   m_Layer: 0
-  m_Name: Spawn2_Froggit_Fast
+  m_Name: Spawn2_Froggit_Fast 12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10946,7 +10947,7 @@ GameObject:
   - component: {fileID: 1105770225}
   - component: {fileID: 1105770226}
   m_Layer: 0
-  m_Name: Spawn1_Loox_Inf
+  m_Name: Spawn1_Loox_Inf 10
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

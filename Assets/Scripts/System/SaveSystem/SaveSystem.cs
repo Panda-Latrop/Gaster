@@ -179,7 +179,7 @@ public class SaveSystem : FileMaster
         JSONObject gameObjectJObject = new JSONObject();
         gameObjectJObject.Add("active", new JSONBool(gameObject.activeSelf));
         Transform transform = gameObject.transform;
-        TransformSave(gameObjectJObject, "", transform);
+        TransformSave(gameObjectJObject, string.Empty, transform);
         jsonObject.Add("gameObject", gameObjectJObject);
         return jsonObject;
     }
@@ -188,7 +188,7 @@ public class SaveSystem : FileMaster
         JSONObject gameObjectJObject = jsonObject["gameObject"].AsObject;
         gameObject.SetActive(gameObjectJObject["active"].AsBool);
         Transform transform = gameObject.transform;
-        TransformLoad(gameObjectJObject, "", transform);
+        TransformLoad(gameObjectJObject, string.Empty, transform);
         return jsonObject;
     }
     public static void TransformSave(JSONObject jsonObject, string prefix, Transform transform)

@@ -33,13 +33,13 @@ public class AIControllerRandomMove : AIControllerBase
     public override JSONObject Save( JSONObject jsonObject)
     {
         base.Save( jsonObject);
-        SaveSystem.TimerSave(jsonObject, "", nextTime);
+        SaveSystem.TimerSave(jsonObject, string.Empty, nextTime);
         return jsonObject;
     }
     public override JSONObject Load( JSONObject jsonObject)
     {
         base.Load( jsonObject);
-        SaveSystem.TimerLoad(jsonObject, "",ref nextTime);
+        SaveSystem.TimerLoad(jsonObject, string.Empty, ref nextTime);
         return jsonObject;
     }
     #endregion

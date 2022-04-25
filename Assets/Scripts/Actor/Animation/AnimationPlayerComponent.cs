@@ -53,7 +53,7 @@ public class AnimationPlayerComponent : AnimationCharacterComponent
     {
         base.LateUpdate();
         //weaponAnimator.SetBool(moveHash, characterMovement.Rigidbody.velocity.sqrMagnitude > 0.0f);
-        Vector2 orientation = characterOrientation.Orientation;
+        Vector2 orientation = this.orientation.Direction;
         if (orientation.x >= 0 && isFlipped)
             Flip(false);
         else

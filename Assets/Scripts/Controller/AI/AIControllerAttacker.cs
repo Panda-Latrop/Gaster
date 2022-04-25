@@ -267,7 +267,9 @@ public class AIControllerAttacker : AIControllerBase
         needMoreTarget = jsonObject["needMoreTarget"].AsBool;
         if (hasCommander)
         {
+            
             hasCommander = SaveSystem.ComponentReferenceLoad(jsonObject, "commander", ref commander);
+            Debug.Log("Has " + commander.name);
         }
         SaveSystem.TimerLoad(jsonObject, "closest", ref nextClosest);
         targets.Clear();

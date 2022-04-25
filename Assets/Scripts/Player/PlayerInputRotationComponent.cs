@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerInputRotationComponent : MonoBehaviour
 {
     [SerializeField]
-    protected CharacterOrientationBaseComponent characterOrientation;
+    protected OrientationComponent orientation;
     [SerializeField]
     protected Transform arms;
 
@@ -13,7 +13,7 @@ public class PlayerInputRotationComponent : MonoBehaviour
 
     public void SetRotation(Vector3 direction)
     {
-        characterOrientation.Orientation = direction;
+        orientation.Direction = direction;
         direction.Set(-direction.y, direction.x, 0);
         Quaternion q = Quaternion.LookRotation(Vector3.forward, direction);
         arms.localRotation =q;

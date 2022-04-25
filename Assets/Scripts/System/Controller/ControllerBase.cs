@@ -19,7 +19,8 @@ public abstract class ControllerBase : Actor
         controlledPawn.Health.BindOnHurt(OnHurt);
         controlledPawn.Health.BindOnDeath(OnDeath);
         controlledPawn.Health.BindOnMorale(OnMorale);
-        saveTag = pawn.SaveTag;
+        //if(!pawn.SaveTag.Equals(string.Empty))
+        //saveTag = pawn.SaveTag;
     }
     public virtual void Unpossess()
     {
@@ -40,7 +41,7 @@ public abstract class ControllerBase : Actor
         base.Save( jsonObject);
         jsonObject.Add("hasPawn", new JSONBool(hasPawn));
         if (hasPawn)
-            SaveSystem.ComponentReferenceSave(jsonObject, "", controlledPawn);
+            SaveSystem.ComponentReferenceSave(jsonObject, string.Empty, controlledPawn);
         return jsonObject;
     }
 

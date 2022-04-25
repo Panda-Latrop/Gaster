@@ -1,0 +1,50 @@
+<root>
+
+<switch>
+<!--<case global="BD0-1" to="1"/>-->
+<!--<case global="BD1-1" to="2"/>-->
+<case local="2" to="2"/>
+</switch>
+
+<branch><!--1-->
+
+<dialog>
+<phrase person="Gaster-0-0">*Ветка 1 Фраза 1 на русском</phrase>
+<phrase person="Gaster-1-0">*Ветка 1 Фраза 2 на русском
+*Следующая строка</phrase>
+<phrase person="Gaster-2-0">*Ветка 1 Фраза 3 на русском</phrase>
+</dialog>
+<set global="BD1-1" msg="2"/>
+<choice>
+<option to="1">*Ветка 1 Выбор 1 на русском</option>
+<option to="2">*Ветка 1 Выбор 2 на русском</option>
+<option to="3">*Ветка 1 Выбор 3 на русском</option>
+<option to="1">*Ветка 1 Выбор 4 на русском</option>
+<option to="2">*Ветка 1 Выбор 5 на русском</option>
+<option to="3">*Ветка 1 Выбор 6 на русском</option>
+</choice> 
+
+
+
+</branch>
+
+<branch><!--2-->
+
+<dialog>
+<phrase person="Gaster-0-0">*Ветка 2 Фраза 1 на русском</phrase>
+<phrase person="Gaster-1-0">*Ветка 2 Фраза 2 на русском
+*Следующая строка</phrase>
+<phrase person="Gaster-2-0">*Ветка 2 Фраза 3 на русском</phrase>
+</dialog> 	
+	
+<choice>
+<option to="2">*Ветка 2 Выбор 1 на русском</option>
+<option to="2">*Ветка 2 Выбор 2 на русском</option>
+<option to="2">*Ветка 2 Выбор 3 на русском</option>
+</choice> 
+
+<set global="BD1-1" msg="2" to="3"/>
+
+</branch>
+
+</root>

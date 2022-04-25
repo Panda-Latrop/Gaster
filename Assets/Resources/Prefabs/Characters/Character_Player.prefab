@@ -550,7 +550,7 @@ MonoBehaviour:
   capsule: {fileID: 7272942835162362826}
   useHitEvent: 0
   rigidbody: {fileID: 2010482427504128308}
-  characterOrientation: {fileID: 5068336760431581513}
+  orientation: {fileID: 5068336760431581513}
   characterMovement: {fileID: 1229773578502790730}
   animationPlayerComponent: {fileID: 1645473743675197718}
   weaponHolderComponent: {fileID: 5973112554857901864}
@@ -602,7 +602,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 355b1c79a1c16f64daa17b23fb13cee5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  orientation: {x: 0, y: -1}
+  direction: {x: 1, y: 0}
 --- !u!114 &1229773578502790730
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -640,6 +640,9 @@ MonoBehaviour:
   attachSocket: {fileID: 1811276832698843708}
   slots:
   - {fileID: 6238587908761577877, guid: c18fb36288351e44980ed5fbf64945c7, type: 3}
+  - {fileID: 5954684636400228331, guid: 6102646052124d64b8db41f2219c3f97, type: 3}
+  - {fileID: 366617533717190102, guid: 16406f089a8638741805ce645be5292f, type: 3}
+  - {fileID: 2917665931594861441, guid: c0d0e151475bc9a44ab24556323066cd, type: 3}
   slotEquips: 00
   currentSlot: 0
   dominator: {fileID: 7322526863021464043}
@@ -658,7 +661,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dfb6f3c2f508be34db6309b66842cc1b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  characterOrientation: {fileID: 5068336760431581513}
+  orientation: {fileID: 5068336760431581513}
   arms: {fileID: 4249086878488287323}
 --- !u!1 &5104165659451211361
 GameObject:
@@ -793,7 +796,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animator: {fileID: 1614444327281128443}
-  characterOrientation: {fileID: 5068336760431581513}
+  orientation: {fileID: 5068336760431581513}
   characterMovement: {fileID: 1229773578502790730}
   weaponAnimator: {fileID: 7360945587022592188}
   bodyTransform: {fileID: 8823838834339064729}

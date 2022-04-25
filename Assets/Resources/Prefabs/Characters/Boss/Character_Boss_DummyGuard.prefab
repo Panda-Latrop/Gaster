@@ -249,7 +249,7 @@ MonoBehaviour:
   capsule: {fileID: 5658143979211048611}
   useHitEvent: 0
   rigidbody: {fileID: 5658143979211048608}
-  characterOrientation: {fileID: 6645679378979888915}
+  orientation: {fileID: 6645679378979888915}
   characterMovement: {fileID: 7944163480226498691}
   specifier: _boss_dummyguard
   spriteRendererHolder: {fileID: 5614357986024517432}
@@ -271,7 +271,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isAlive: 1
   isImmortal: 0
-  maxHealth: 1
+  maxHealth: 500
   isMorale: 1
   isAmoral: 1
   maxMorale: 2000
@@ -303,7 +303,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 355b1c79a1c16f64daa17b23fb13cee5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  orientation: {x: 0, y: -1}
+  direction: {x: 1, y: 0}
 --- !u!114 &7944163480226498691
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -430,7 +430,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animator: {fileID: 364165802337963915}
-  characterOrientation: {fileID: 6645679378979888915}
+  orientation: {fileID: 6645679378979888915}
   characterMovement: {fileID: 7944163480226498691}
 --- !u!114 &5614357986024517432
 MonoBehaviour:

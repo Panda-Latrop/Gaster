@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CharacterOrientationByMovementComponent : CharacterOrientationBaseComponent
+public class OrientationByMovementComponent : OrientationComponent
 {
     [SerializeField]
     protected CharacterMovementComponent characterMovement;
@@ -11,6 +11,6 @@ public class CharacterOrientationByMovementComponent : CharacterOrientationBaseC
 
     private void LateUpdate()
     {
-        orientation = characterMovement.Direction;
+        direction = characterMovement.Direction;
     }
 }

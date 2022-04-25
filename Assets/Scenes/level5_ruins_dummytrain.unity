@@ -3643,11 +3643,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 115351351440606733, guid: 7ba4b9d687c4ba24f8684bf75c8c7311, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 51
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 115351351440606733, guid: 7ba4b9d687c4ba24f8684bf75c8c7311, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 14.9
       objectReference: {fileID: 0}
     - target: {fileID: 115351351440606733, guid: 7ba4b9d687c4ba24f8684bf75c8c7311, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3703,11 +3703,11 @@ PrefabInstance:
       objectReference: {fileID: 99661158}
     - target: {fileID: 7361331995949854130, guid: 7ba4b9d687c4ba24f8684bf75c8c7311, type: 3}
       propertyPath: m_Size.x
-      value: 2
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 7361331995949854130, guid: 7ba4b9d687c4ba24f8684bf75c8c7311, type: 3}
       propertyPath: m_Size.y
-      value: 4
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 8907705668941107955, guid: 7ba4b9d687c4ba24f8684bf75c8c7311, type: 3}
       propertyPath: actions.Array.size
@@ -3742,7 +3742,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   waitForEnd: 0
-  toLevel: level5_ruins_dummytrain
+  toLevel: level6_ruins_spikearea
   toEnter: 0
 --- !u!1 &146346682
 GameObject:
@@ -15912,6 +15912,7 @@ MonoBehaviour:
   wavePatterns:
   - 0
   timeToWave: 0
+  obstacles: []
 --- !u!114 &983421226
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16375,11 +16376,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 115351351440606733, guid: 7ba4b9d687c4ba24f8684bf75c8c7311, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -30
+      value: -27
       objectReference: {fileID: 0}
     - target: {fileID: 115351351440606733, guid: 7ba4b9d687c4ba24f8684bf75c8c7311, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -21
+      value: -2
       objectReference: {fileID: 0}
     - target: {fileID: 115351351440606733, guid: 7ba4b9d687c4ba24f8684bf75c8c7311, type: 3}
       propertyPath: m_LocalPosition.z
@@ -16435,11 +16436,11 @@ PrefabInstance:
       objectReference: {fileID: 1219692203}
     - target: {fileID: 7361331995949854130, guid: 7ba4b9d687c4ba24f8684bf75c8c7311, type: 3}
       propertyPath: m_Size.x
-      value: 4
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7361331995949854130, guid: 7ba4b9d687c4ba24f8684bf75c8c7311, type: 3}
       propertyPath: m_Size.y
-      value: 2
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 8907705668941107955, guid: 7ba4b9d687c4ba24f8684bf75c8c7311, type: 3}
       propertyPath: actions.Array.size
@@ -16474,7 +16475,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   waitForEnd: 0
-  toLevel: level3_ruins_smallpuzzle
+  toLevel: level4_ruins_leverroom
   toEnter: 1
 --- !u!1001 &1329951942
 PrefabInstance:
@@ -17327,7 +17328,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4892429189277855114, guid: 41bdc975272f2964ea59c113531defe9, type: 3}
       propertyPath: points.Array.size
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4892429189277855114, guid: 41bdc975272f2964ea59c113531defe9, type: 3}
       propertyPath: positions.Array.size
@@ -17343,11 +17344,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4892429189277855114, guid: 41bdc975272f2964ea59c113531defe9, type: 3}
       propertyPath: points.Array.data[0].position.x
-      value: 37
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4892429189277855114, guid: 41bdc975272f2964ea59c113531defe9, type: 3}
       propertyPath: points.Array.data[0].position.y
-      value: 0
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4892429189277855114, guid: 41bdc975272f2964ea59c113531defe9, type: 3}
       propertyPath: points.Array.data[0].rotation.w
@@ -17363,11 +17364,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5293785566716202154, guid: 41bdc975272f2964ea59c113531defe9, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -20
       objectReference: {fileID: 0}
     - target: {fileID: 5293785566716202154, guid: 41bdc975272f2964ea59c113531defe9, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -1.72
       objectReference: {fileID: 0}
     - target: {fileID: 5293785566716202154, guid: 41bdc975272f2964ea59c113531defe9, type: 3}
       propertyPath: m_LocalPosition.z
@@ -17499,6 +17500,8 @@ MonoBehaviour:
   - {fileID: 8431501802061530476}
   currentExecutor: 0
   closeOnExecute: 1
+  useCondition: 0
+  condition: {fileID: 0}
 --- !u!1 &2273202754567556530
 GameObject:
   m_ObjectHideFlags: 0

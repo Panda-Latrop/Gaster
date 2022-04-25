@@ -1,8 +1,8 @@
 <root>
 <branch>
 <dialog>
-<phrase person="Gaster" face="0" sound="0">Ну чё? Получил, Сука!</phrase>
-<phrase person="Gaster" face="0" sound="0">Надеюсь он тут единственныей такой ебанутый...</phrase>
+<phrase person="Gaster" face="0" sound="0">Ну чё? Получил!</phrase>
+<phrase person="Gaster" face="0" sound="0">Надеюсь он тут единственныей такой...</phrase>
 </dialog>
 </branch>
 </root>

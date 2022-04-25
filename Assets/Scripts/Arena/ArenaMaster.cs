@@ -17,6 +17,8 @@ public class ArenaMaster : Actor
     [SerializeField]
     protected float timeToWave = 1.0f;
     protected float nextWave;
+    [SerializeField]
+    protected List<ArenaObstacle> obstacles = new List<ArenaObstacle>();
 
     protected int WavePatternIndex(int i) => wavePatterns[currentWave][i] - 48;
 
@@ -31,12 +33,20 @@ public class ArenaMaster : Actor
             spawns[WavePatternIndex(i)].OnStart();
         }
         GameInstance.Instance.GameState.AddInCombat();
+        for (int i = 0; i < obstacles.Count; i++)
+        {
+            obstacles[i].Show();
+        }
     }
     protected void Finish()
     {
         enabled = false;
         CallOnEnd();
         GameInstance.Instance.GameState.RemoveInCombat();
+        for (int i = 0; i < obstacles.Count; i++)
+        {
+            obstacles[i].Hide();
+        }
         Debug.Log("Arena End");
     }
 
@@ -133,6 +143,10 @@ public class ArenaMaster : Actor
             }
         }
         jsonObject.Add("pawns", pawnsJArray);
+        JSONArray obstaclesJArray = new JSONArray();
+        for (int i = 0; i < obstacles.Count; i++)
+            obstaclesJArray.Add(obstacles[i].Save(new JSONObject()));
+        jsonObject.Add("obstacles", obstaclesJArray);
         return jsonObject;
     }
     public override JSONObject Load( JSONObject jsonObject)
@@ -150,6 +164,9 @@ public class ArenaMaster : Actor
             if (SaveSystem.ComponentReferenceLoad(pawnJObject, "pawn",ref p))
                 pawns.Add(p);
         }
+        JSONArray obstaclesJArray = jsonObject["obstacles"].AsArray;
+        for (int i = 0; i < obstaclesJArray.Count; i++)
+            obstacles[i].Load(obstaclesJArray[i].AsObject);
         return jsonObject;
     }
 }

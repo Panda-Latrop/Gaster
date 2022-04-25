@@ -30,7 +30,7 @@ public class UIDialog : UIBaseWidget
         Show();
         Sprite face;
         AudioClip sound;
-        this.text.text = "";
+        this.text.text = string.Empty;
         currentChar = 0;
         builder = new StringBuilder();
         rawText = text;
